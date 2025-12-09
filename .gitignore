@@ -1,0 +1,9 @@
+venv/
+.env
+*.bin
+*.gguf
+models/
+data/vectorstore/
+__pycache__/
+*.pyc
+*.sqlite3
