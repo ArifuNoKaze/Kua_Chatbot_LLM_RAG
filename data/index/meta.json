@@ -1,0 +1,824 @@
+[
+  {
+    "source_id": 1,
+    "category": "ketentuan_waktu",
+    "chunk_id": "1_0",
+    "text": "Pendaftaran nikah di KUA dapat dilakukan minimal 10 hari kerja sebelum tanggal akad."
+  },
+  {
+    "source_id": 2,
+    "category": "ketentuan_waktu",
+    "chunk_id": "2_0",
+    "text": "Calon pengantin diperbolehkan mendaftar sejak 1 hingga 3 bulan sebelum akad."
+  },
+  {
+    "source_id": 3,
+    "category": "ketentuan_waktu",
+    "chunk_id": "3_0",
+    "text": "Proses pendaftaran nikah biasanya selesai dalam 10–20 menit jika berkas sudah lengkap."
+  },
+  {
+    "source_id": 4,
+    "category": "ketentuan_waktu",
+    "chunk_id": "4_0",
+    "text": "Pendaftaran nikah di KUA dibuka sepanjang tahun, kecuali hari besar tertentu sesuai kebijakan KUA."
+  },
+  {
+    "source_id": 5,
+    "category": "ketentuan_waktu",
+    "chunk_id": "5_0",
+    "text": "Tanggal akad masih bisa diubah sebelum hari pelaksanaan."
+  },
+  {
+    "source_id": 6,
+    "category": "ketentuan_waktu",
+    "chunk_id": "6_0",
+    "text": "KUA tidak menerima pemesanan tanggal akad jika dokumen calon pengantin belum lengkap."
+  },
+  {
+    "source_id": 7,
+    "category": "ketentuan_waktu",
+    "chunk_id": "7_0",
+    "text": "Jadwal penghulu mengikuti ketersediaan petugas KUA setempat."
+  },
+  {
+    "source_id": 8,
+    "category": "biaya_nikah",
+    "chunk_id": "8_0",
+    "text": "Menikah di KUA pada jam kerja adalah gratis."
+  },
+  {
+    "source_id": 9,
+    "category": "biaya_nikah",
+    "chunk_id": "9_0",
+    "text": "Akad di luar KUA atau di luar jam kerja dikenakan biaya resmi Rp600.000."
+  },
+  {
+    "source_id": 10,
+    "category": "biaya_nikah",
+    "chunk_id": "10_0",
+    "text": "Pembayaran biaya nikah dianjurkan melalui transfer bank untuk menghindari pungli."
+  },
+  {
+    "source_id": 11,
+    "category": "biaya_nikah",
+    "chunk_id": "11_0",
+    "text": "Live streaming atau dokumentasi tidak mempengaruhi biaya pernikahan."
+  },
+  {
+    "source_id": 12,
+    "category": "prosedur_pendaftaran",
+    "chunk_id": "12_0",
+    "text": "Dokumen N1 sampai N4 diperoleh dari kelurahan sebagai syarat pendaftaran nikah."
+  },
+  {
+    "source_id": 13,
+    "category": "prosedur_pendaftaran",
+    "chunk_id": "13_0",
+    "text": "Pendaftaran nikah dapat dilakukan langsung ke KUA."
+  },
+  {
+    "source_id": 14,
+    "category": "prosedur_pendaftaran",
+    "chunk_id": "14_0",
+    "text": "Pendaftaran nikah dapat dilakukan melalui sistem online SIMKAH."
+  },
+  {
+    "source_id": 15,
+    "category": "prosedur_pendaftaran",
+    "chunk_id": "15_0",
+    "text": "Proses verifikasi biasanya berlangsung selama 5–15 menit."
+  },
+  {
+    "source_id": 16,
+    "category": "prosedur_pendaftaran",
+    "chunk_id": "16_0",
+    "text": "Calon pengantin wajib hadir saat proses verifikasi data."
+  },
+  {
+    "source_id": 17,
+    "category": "prosedur_pendaftaran",
+    "chunk_id": "17_0",
+    "text": "Pendaftaran boleh diwakilkan, tetapi verifikasi harus dilakukan oleh kedua calon pengantin secara langsung."
+  },
+  {
+    "source_id": 18,
+    "category": "prosedur_pendaftaran",
+    "chunk_id": "18_0",
+    "text": "Penyerahan dokumen fisik dapat diwakilkan ke pihak lain."
+  },
+  {
+    "source_id": 19,
+    "category": "dokumen_wajib",
+    "chunk_id": "19_0",
+    "text": "Dokumen wajib pendaftaran nikah meliputi fotokopi KTP kedua calon pengantin."
+  },
+  {
+    "source_id": 20,
+    "category": "dokumen_wajib",
+    "chunk_id": "20_0",
+    "text": "Kartu Keluarga (KK) wajib dilampirkan saat mendaftar nikah."
+  },
+  {
+    "source_id": 21,
+    "category": "dokumen_wajib",
+    "chunk_id": "21_0",
+    "text": "Akta lahir wajib disertakan saat pendaftaran nikah."
+  },
+  {
+    "source_id": 22,
+    "category": "dokumen_wajib",
+    "chunk_id": "22_0",
+    "text": "Formulir N1–N4 merupakan syarat wajib dari kelurahan."
+  },
+  {
+    "source_id": 23,
+    "category": "dokumen_wajib",
+    "chunk_id": "23_0",
+    "text": "Pas foto ukuran 2×3 dan 4×6 wajib disertakan untuk berkas nikah."
+  },
+  {
+    "source_id": 24,
+    "category": "dokumen_wajib",
+    "chunk_id": "24_0",
+    "text": "Surat rekomendasi nikah wajib bagi calon pengantin yang berdomisili berbeda."
+  },
+  {
+    "source_id": 25,
+    "category": "dokumen_wajib",
+    "chunk_id": "25_0",
+    "text": "Surat domisili wajib jika calon pengantin tinggal di kos atau kontrakan."
+  },
+  {
+    "source_id": 26,
+    "category": "dokumen_wajib",
+    "chunk_id": "26_0",
+    "text": "Dokumen yang belum selesai atau belum tersedia tidak dapat digunakan untuk pendaftaran nikah."
+  },
+  {
+    "source_id": 27,
+    "category": "data_kependudukan",
+    "chunk_id": "27_0",
+    "text": "Jika terdapat perbedaan satu huruf pada data identitas, data tersebut harus segera diperbaiki sebelum mendaftar nikah."
+  },
+  {
+    "source_id": 28,
+    "category": "data_kependudukan",
+    "chunk_id": "28_0",
+    "text": "Perbaikan NIK yang tidak valid atau bermasalah harus dilakukan di Disdukcapil."
+  },
+  {
+    "source_id": 29,
+    "category": "data_kependudukan",
+    "chunk_id": "29_0",
+    "text": "Jika ditemukan data ganda dalam sistem kependudukan, calon pengantin wajib melakukan perbaikan data."
+  },
+  {
+    "source_id": 30,
+    "category": "data_kependudukan",
+    "chunk_id": "30_0",
+    "text": "Calon yang baru pindah domisili wajib melampirkan surat domisili sebagai pengganti alamat."
+  },
+  {
+    "source_id": 31,
+    "category": "dokumen_hilang",
+    "chunk_id": "31_0",
+    "text": "Ijazah bukan merupakan dokumen wajib untuk pendaftaran nikah di KUA."
+  },
+  {
+    "source_id": 32,
+    "category": "dokumen_hilang",
+    "chunk_id": "32_0",
+    "text": "Jika buku nikah hilang, calon dapat mengurus duplikat di KUA tempat buku nikah diterbitkan."
+  },
+  {
+    "source_id": 33,
+    "category": "dokumen_hilang",
+    "chunk_id": "33_0",
+    "text": "Akta cerai wajib dimiliki oleh duda atau janda yang ingin menikah kembali."
+  },
+  {
+    "source_id": 34,
+    "category": "dokumen_hilang",
+    "chunk_id": "34_0",
+    "text": "Jika akta cerai hilang, maka dokumen tersebut harus diurus ulang melalui pengadilan."
+  },
+  {
+    "source_id": 35,
+    "category": "dokumen_hilang",
+    "chunk_id": "35_0",
+    "text": "Jika orang tua calon pengantin sudah meninggal, maka diperlukan surat kematian sebagai dokumen pendukung."
+  },
+  {
+    "source_id": 36,
+    "category": "dokumen_hilang",
+    "chunk_id": "36_0",
+    "text": "Dokumen yang hilang dapat dicetak ulang melalui KUA atau instansi terkait."
+  },
+  {
+    "source_id": 37,
+    "category": "domisili_berbeda",
+    "chunk_id": "37_0",
+    "text": "Calon pengantin dari domisili berbeda wajib mengurus surat rekomendasi nikah dari KUA asal."
+  },
+  {
+    "source_id": 38,
+    "category": "domisili_berbeda",
+    "chunk_id": "38_0",
+    "text": "Perbedaan provinsi tetap diperbolehkan selama surat rekomendasi nikah sudah diterbitkan."
+  },
+  {
+    "source_id": 39,
+    "category": "domisili_berbeda",
+    "chunk_id": "39_0",
+    "text": "Lokasi akad dapat dipindahkan ke wilayah lain selama menggunakan surat rekomendasi yang sah."
+  },
+  {
+    "source_id": 40,
+    "category": "wali_nikah",
+    "chunk_id": "40_0",
+    "text": "Wali nikah wajib hadir saat pelaksanaan akad nikah."
+  },
+  {
+    "source_id": 41,
+    "category": "wali_nikah",
+    "chunk_id": "41_0",
+    "text": "Jika tidak ada wali nasab yang memenuhi syarat, wali hakim akan bertindak sebagai wali."
+  },
+  {
+    "source_id": 42,
+    "category": "wali_nikah",
+    "chunk_id": "42_0",
+    "text": "Wali yang berbeda domisili tetap sah selama memenuhi syarat kewalian."
+  },
+  {
+    "source_id": 43,
+    "category": "wali_nikah",
+    "chunk_id": "43_0",
+    "text": "Jika wali dinilai tidak memenuhi kelayakan, maka tanggung jawab dialihkan kepada wali hakim."
+  },
+  {
+    "source_id": 44,
+    "category": "wali_nikah",
+    "chunk_id": "44_0",
+    "text": "Wali yang berada di luar negeri dapat memberikan kuasa melalui surat."
+  },
+  {
+    "source_id": 45,
+    "category": "wali_nikah",
+    "chunk_id": "45_0",
+    "text": "Kerabat dekat dapat menjadi wali sesuai urutan kewalian yang ditetapkan syariat."
+  },
+  {
+    "source_id": 46,
+    "category": "saksi_nikah",
+    "chunk_id": "46_0",
+    "text": "Akad nikah wajib disaksikan oleh dua orang saksi laki-laki Muslim yang adil."
+  },
+  {
+    "source_id": 47,
+    "category": "saksi_nikah",
+    "chunk_id": "47_0",
+    "text": "Saksi hanya wajib hadir pada saat akad terjadi."
+  },
+  {
+    "source_id": 48,
+    "category": "saksi_nikah",
+    "chunk_id": "48_0",
+    "text": "Saksi dapat diganti apabila dibutuhkan pada hari pelaksanaan akad."
+  },
+  {
+    "source_id": 49,
+    "category": "usia_nikah",
+    "chunk_id": "49_0",
+    "text": "Calon pengantin berusia di bawah 19 tahun wajib memiliki surat dispensasi pengadilan."
+  },
+  {
+    "source_id": 50,
+    "category": "usia_nikah",
+    "chunk_id": "50_0",
+    "text": "Tidak ada batas usia maksimal untuk menikah di KUA."
+  },
+  {
+    "source_id": 51,
+    "category": "persyaratan_wna",
+    "chunk_id": "51_0",
+    "text": "Calon pengantin WNA wajib memiliki paspor yang masih berlaku."
+  },
+  {
+    "source_id": 52,
+    "category": "persyaratan_wna",
+    "chunk_id": "52_0",
+    "text": "WNA wajib memiliki surat NOC (Letter of No Impediment) dari kedutaan atau otoritas terkait."
+  },
+  {
+    "source_id": 53,
+    "category": "persyaratan_wna",
+    "chunk_id": "53_0",
+    "text": "Dokumen asing harus diterjemahkan oleh penerjemah tersumpah."
+  },
+  {
+    "source_id": 54,
+    "category": "persyaratan_wna",
+    "chunk_id": "54_0",
+    "text": "Dokumen asing wajib dilegalisasi oleh Kementerian Luar Negeri atau kedutaan."
+  },
+  {
+    "source_id": 55,
+    "category": "persyaratan_wna",
+    "chunk_id": "55_0",
+    "text": "Pernikahan yang dilaksanakan di luar negeri dianggap sah jika dicatatkan di KBRI atau KJRI."
+  },
+  {
+    "source_id": 56,
+    "category": "nikah_siri_isbat",
+    "chunk_id": "56_0",
+    "text": "Nikah siri dapat diajukan isbat untuk memperoleh pengesahan dan pencatatan resmi dari negara."
+  },
+  {
+    "source_id": 57,
+    "category": "nikah_siri_isbat",
+    "chunk_id": "57_0",
+    "text": "Duda atau janda yang menikah kembali wajib melampirkan akta cerai sebagai dokumen pendukung."
+  },
+  {
+    "source_id": 58,
+    "category": "persiapan_akad",
+    "chunk_id": "58_0",
+    "text": "Beberapa KUA menyediakan layanan BP4 untuk pendampingan calon pengantin."
+  },
+  {
+    "source_id": 59,
+    "category": "persiapan_akad",
+    "chunk_id": "59_0",
+    "text": "Tes kesehatan diberlakukan sesuai kebijakan daerah masing-masing."
+  },
+  {
+    "source_id": 60,
+    "category": "persiapan_akad",
+    "chunk_id": "60_0",
+    "text": "KUA menyediakan konsultasi mengenai mahar bagi calon pengantin."
+  },
+  {
+    "source_id": 61,
+    "category": "persiapan_akad",
+    "chunk_id": "61_0",
+    "text": "Latihan ijab kabul bukan merupakan kewajiban, tetapi dapat dilakukan jika calon pengantin membutuhkannya."
+  },
+  {
+    "source_id": 62,
+    "category": "simkah",
+    "chunk_id": "62_0",
+    "text": "Data pendaftaran nikah secara teknis akan masuk otomatis ke dalam sistem SIMKAH."
+  },
+  {
+    "source_id": 63,
+    "category": "simkah",
+    "chunk_id": "63_0",
+    "text": "Calon pengantin dapat melakukan pengecekan data pernikahan melalui sistem SIMKAH."
+  },
+  {
+    "source_id": 64,
+    "category": "penghulu_dan_teknis",
+    "chunk_id": "64_0",
+    "text": "Penghulu dari luar KUA tidak diperbolehkan memimpin akad tanpa surat tugas resmi."
+  },
+  {
+    "source_id": 65,
+    "category": "penghulu_dan_teknis",
+    "chunk_id": "65_0",
+    "text": "Tidak ada syarat vaksin tertentu untuk menikah di KUA."
+  },
+  {
+    "source_id": 66,
+    "category": "disabilitas",
+    "chunk_id": "66_0",
+    "text": "Penyandang disabilitas tetap dapat menikah selama rukun nikah terpenuhi."
+  },
+  {
+    "source_id": 67,
+    "category": "luar_negeri",
+    "chunk_id": "67_0",
+    "text": "Jika pasangan berada di luar negeri, pendaftaran nikah tetap dapat dilakukan melalui surat kuasa."
+  },
+  {
+    "source_id": 68,
+    "category": "luar_negeri",
+    "chunk_id": "68_0",
+    "text": "Wali yang berada di luar negeri dapat memberikan kuasa untuk pelaksanaan akad."
+  },
+  {
+    "source_id": 69,
+    "category": "perubahan_jadwal",
+    "chunk_id": "69_0",
+    "text": "Perubahan tanggal akad dapat dilakukan sebelum hari pelaksanaan."
+  },
+  {
+    "source_id": 70,
+    "category": "perubahan_jadwal",
+    "chunk_id": "70_0",
+    "text": "Pendaftaran nikah dapat dibatalkan apabila diperlukan."
+  },
+  {
+    "source_id": 71,
+    "category": "perubahan_jadwal",
+    "chunk_id": "71_0",
+    "text": "Jika salah satu calon pengantin tidak dapat hadir, jadwal akad dapat dijadwalkan ulang."
+  },
+  {
+    "source_id": 72,
+    "category": "syarat_keagamaan",
+    "chunk_id": "72_0",
+    "text": "Mualaf wajib membawa surat keterangan syahadat sebagai syarat keagamaan dalam pernikahan."
+  },
+  {
+    "source_id": 73,
+    "category": "syarat_keagamaan",
+    "chunk_id": "73_0",
+    "text": "Calon pengantin yang berpindah agama sebelum menikah wajib melampirkan surat masuk Islam sebagai dokumen pendukung."
+  },
+  {
+    "source_id": 74,
+    "category": "syarat_nikah",
+    "chunk_id": "74_0",
+    "text": "Calon pengantin wajib membawa fotokopi KTP kedua mempelai."
+  },
+  {
+    "source_id": 75,
+    "category": "syarat_nikah",
+    "chunk_id": "75_0",
+    "text": "Calon pengantin wajib membawa fotokopi Kartu Keluarga (KK)."
+  },
+  {
+    "source_id": 76,
+    "category": "syarat_nikah",
+    "chunk_id": "76_0",
+    "text": "Calon pengantin wajib membawa akta lahir sebagai bukti identitas."
+  },
+  {
+    "source_id": 77,
+    "category": "syarat_nikah",
+    "chunk_id": "77_0",
+    "text": "Formulir N1 sampai N4 dari kelurahan wajib disertakan dalam pendaftaran nikah."
+  },
+  {
+    "source_id": 78,
+    "category": "syarat_nikah",
+    "chunk_id": "78_0",
+    "text": "Calon pengantin wajib menyerahkan pas foto ukuran 2×3."
+  },
+  {
+    "source_id": 79,
+    "category": "syarat_nikah",
+    "chunk_id": "79_0",
+    "text": "Calon pengantin wajib menyerahkan pas foto ukuran 4×6."
+  },
+  {
+    "source_id": 80,
+    "category": "syarat_nikah",
+    "chunk_id": "80_0",
+    "text": "Surat rekomendasi nikah dari KUA asal wajib bagi calon yang berdomisili berbeda."
+  },
+  {
+    "source_id": 81,
+    "category": "syarat_nikah",
+    "chunk_id": "81_0",
+    "text": "Surat domisili diperlukan jika calon pengantin tinggal di kos atau kontrakan."
+  },
+  {
+    "source_id": 82,
+    "category": "syarat_nikah",
+    "chunk_id": "82_0",
+    "text": "Dokumen yang belum selesai atau belum lengkap tidak dapat digunakan untuk pendaftaran nikah."
+  },
+  {
+    "source_id": 83,
+    "category": "syarat_nikah",
+    "chunk_id": "83_0",
+    "text": "Wali nikah wajib hadir saat akad nikah berlangsung."
+  },
+  {
+    "source_id": 84,
+    "category": "syarat_nikah",
+    "chunk_id": "84_0",
+    "text": "Jika wali nasab tidak memenuhi syarat, maka wali hakim menggantikannya."
+  },
+  {
+    "source_id": 85,
+    "category": "syarat_nikah",
+    "chunk_id": "85_0",
+    "text": "Akad nikah wajib disaksikan oleh dua saksi laki-laki Muslim yang adil."
+  },
+  {
+    "source_id": 86,
+    "category": "syarat_nikah",
+    "chunk_id": "86_0",
+    "text": "Calon pengantin berusia di bawah 19 tahun wajib memiliki surat dispensasi dari pengadilan."
+  },
+  {
+    "source_id": 87,
+    "category": "syarat_nikah",
+    "chunk_id": "87_0",
+    "text": "Pendaftaran nikah dilakukan minimal 10 hari kerja sebelum akad berlangsung."
+  },
+  {
+    "source_id": 88,
+    "category": "syarat_nikah",
+    "chunk_id": "88_0",
+    "text": "Calon pengantin boleh mendaftar nikah 1 sampai 3 bulan sebelum tanggal akad."
+  },
+  {
+    "source_id": 89,
+    "category": "syarat_nikah",
+    "chunk_id": "89_0",
+    "text": "Pendaftaran nikah dapat dilakukan secara langsung di KUA atau melalui sistem online SIMKAH."
+  },
+  {
+    "source_id": 90,
+    "category": "syarat_nikah",
+    "chunk_id": "90_0",
+    "text": "Calon pengantin wajib hadir saat proses verifikasi data di KUA."
+  },
+  {
+    "source_id": 91,
+    "category": "syarat_nikah",
+    "chunk_id": "91_0",
+    "text": "Calon pengantin yang berasal dari domisili berbeda wajib mengurus surat rekomendasi nikah."
+  },
+  {
+    "source_id": 92,
+    "category": "syarat_nikah",
+    "chunk_id": "92_0",
+    "text": "Jika orang tua telah meninggal, calon pengantin wajib membawa surat kematian."
+  },
+  {
+    "source_id": 93,
+    "category": "syarat_nikah",
+    "chunk_id": "93_0",
+    "text": "Janda atau duda wajib membawa akta cerai asli sebagai syarat menikah kembali."
+  },
+  {
+    "source_id": 94,
+    "category": "syarat_nikah",
+    "chunk_id": "94_0",
+    "text": "Jika buku nikah hilang, wajib mengurus duplikat di KUA tempat buku diterbitkan."
+  },
+  {
+    "source_id": 95,
+    "category": "syarat_nikah",
+    "chunk_id": "95_0",
+    "text": "Mualaf wajib membawa surat keterangan syahadat dari masjid atau lembaga resmi."
+  },
+  {
+    "source_id": 96,
+    "category": "syarat_nikah",
+    "chunk_id": "96_0",
+    "text": "Calon yang berpindah agama sebelum menikah wajib membawa surat masuk Islam."
+  },
+  {
+    "source_id": 97,
+    "category": "syarat_nikah",
+    "chunk_id": "97_0",
+    "text": "Calon pengantin WNA wajib membawa paspor yang sah."
+  },
+  {
+    "source_id": 98,
+    "category": "syarat_nikah",
+    "chunk_id": "98_0",
+    "text": "Calon pengantin WNA wajib membawa surat NOC atau Letter of No Impediment."
+  },
+  {
+    "source_id": 99,
+    "category": "syarat_nikah",
+    "chunk_id": "99_0",
+    "text": "Dokumen asing wajib diterjemahkan oleh penerjemah tersumpah."
+  },
+  {
+    "source_id": 100,
+    "category": "syarat_nikah",
+    "chunk_id": "100_0",
+    "text": "Dokumen asing wajib dilegalisasi oleh Kementerian Luar Negeri atau kedutaan terkait."
+  },
+  {
+    "source_id": 101,
+    "category": "syarat_nikah",
+    "chunk_id": "101_0",
+    "text": "Akad nikah dapat dilaksanakan di luar KUA dengan biaya Rp600.000 sesuai aturan resmi."
+  },
+  {
+    "source_id": 102,
+    "category": "syarat_nikah",
+    "chunk_id": "102_0",
+    "text": "Menikah di KUA pada jam kerja tidak dikenakan biaya (gratis)."
+  },
+  {
+    "source_id": 103,
+    "category": "syarat_nikah",
+    "chunk_id": "103_0",
+    "text": "Jika pasangan berada di luar negeri, pendaftaran dapat dilakukan menggunakan surat kuasa."
+  },
+  {
+    "source_id": 104,
+    "category": "syarat_nikah",
+    "chunk_id": "104_0",
+    "text": "Saksi wajib hadir secara fisik saat akad nikah dilaksanakan."
+  },
+  {
+    "source_id": 105,
+    "category": "summary_syarat",
+    "chunk_id": "105_0",
+    "text": "Syarat utama menikah di KUA adalah membawa dokumen identitas, formulir N1–N4, foto, serta hadirnya wali dan dua saksi."
+  },
+  {
+    "source_id": 106,
+    "category": "summary_syarat",
+    "chunk_id": "106_0",
+    "text": "Dokumen wajib untuk menikah di KUA meliputi KTP, KK, akta lahir, formulir N1–N4, serta pas foto."
+  },
+  {
+    "source_id": 107,
+    "category": "summary_syarat",
+    "chunk_id": "107_0",
+    "text": "Untuk menikah, calon pengantin harus memenuhi syarat rukun nikah yaitu adanya wali, dua saksi, dan akad ijab kabul."
+  },
+  {
+    "source_id": 108,
+    "category": "summary_syarat",
+    "chunk_id": "108_0",
+    "text": "Pendaftaran nikah dilakukan minimal 10 hari kerja sebelum akad dan dapat dilakukan bahkan 1 sampai 3 bulan sebelumnya."
+  },
+  {
+    "source_id": 109,
+    "category": "summary_syarat",
+    "chunk_id": "109_0",
+    "text": "Biaya menikah di KUA adalah gratis selama dilakukan pada jam kerja dan di kantor KUA."
+  },
+  {
+    "source_id": 110,
+    "category": "summary_syarat",
+    "chunk_id": "110_0",
+    "text": "Akad di luar KUA atau di luar jam kerja dikenakan biaya resmi sebesar Rp600.000."
+  },
+  {
+    "source_id": 111,
+    "category": "summary_syarat",
+    "chunk_id": "111_0",
+    "text": "Surat rekomendasi nikah wajib bagi calon yang tinggal di domisili berbeda dari lokasi akad."
+  },
+  {
+    "source_id": 112,
+    "category": "summary_syarat",
+    "chunk_id": "112_0",
+    "text": "Surat domisili diperlukan bagi calon yang tinggal di kos atau kontrakan."
+  },
+  {
+    "source_id": 113,
+    "category": "summary_syarat",
+    "chunk_id": "113_0",
+    "text": "Janda atau duda wajib membawa akta cerai sebagai bukti status pernikahan sebelumnya."
+  },
+  {
+    "source_id": 114,
+    "category": "summary_syarat",
+    "chunk_id": "114_0",
+    "text": "Calon pengantin yang berpindah agama wajib membawa surat masuk Islam dan surat syahadat."
+  },
+  {
+    "source_id": 115,
+    "category": "summary_syarat",
+    "chunk_id": "115_0",
+    "text": "WNA wajib membawa paspor, surat NOC, dokumen terjemahan, dan legalisasi kedutaan."
+  },
+  {
+    "source_id": 116,
+    "category": "ringkas",
+    "chunk_id": "116_0",
+    "text": "Wali wajib hadir kecuali jika digantikan oleh wali hakim."
+  },
+  {
+    "source_id": 117,
+    "category": "ringkas",
+    "chunk_id": "117_0",
+    "text": "Dua saksi laki-laki Muslim wajib hadir sebagai syarat sah akad nikah."
+  },
+  {
+    "source_id": 118,
+    "category": "ringkas",
+    "chunk_id": "118_0",
+    "text": "Perbedaan domisili dapat diatasi dengan surat rekomendasi nikah dari KUA asal."
+  },
+  {
+    "source_id": 119,
+    "category": "ringkas",
+    "chunk_id": "119_0",
+    "text": "Dokumen tidak boleh kurang atau tidak lengkap karena akan menunda proses pendaftaran."
+  },
+  {
+    "source_id": 120,
+    "category": "ringkas",
+    "chunk_id": "120_0",
+    "text": "Pendaftaran boleh diwakilkan tetapi verifikasi wajib dilakukan oleh kedua calon pengantin."
+  },
+  {
+    "source_id": 121,
+    "category": "general_info",
+    "chunk_id": "121_0",
+    "text": "Pendaftaran nikah dapat dilakukan secara online melalui SIMKAH."
+  },
+  {
+    "source_id": 122,
+    "category": "general_info",
+    "chunk_id": "122_0",
+    "text": "Persyaratan tambahan dapat berbeda sesuai kebijakan KUA masing-masing daerah."
+  },
+  {
+    "source_id": 123,
+    "category": "general_info",
+    "chunk_id": "123_0",
+    "text": "Live streaming dalam akad nikah tidak mempengaruhi biaya resmi yang dikenakan."
+  },
+  {
+    "source_id": 124,
+    "category": "general_info",
+    "chunk_id": "124_0",
+    "text": "Tanggal akad dapat diubah sebelum pelaksanaan jika diperlukan."
+  },
+  {
+    "source_id": 125,
+    "category": "normalisasi",
+    "chunk_id": "125_0",
+    "text": "Untuk mendaftar nikah, calon pengantin harus membawa seluruh dokumen lengkap agar pendaftaran dapat selesai dengan cepat."
+  },
+  {
+    "source_id": 126,
+    "category": "normalisasi",
+    "chunk_id": "126_0",
+    "text": "Verifikasi data harus dilakukan secara langsung oleh kedua calon pengantin di KUA."
+  },
+  {
+    "source_id": 127,
+    "category": "normalisasi",
+    "chunk_id": "127_0",
+    "text": "Jika salah satu calon tidak hadir pada hari akad, maka jadwal dapat diundur atau diubah."
+  },
+  {
+    "source_id": 128,
+    "category": "normalisasi",
+    "chunk_id": "128_0",
+    "text": "Surat domisili menggantikan alamat KTP jika calon pengantin menetap di kos."
+  },
+  {
+    "source_id": 129,
+    "category": "pengulangan_penting",
+    "chunk_id": "129_0",
+    "text": "Syarat dokumen KUA yang paling penting adalah KTP, KK, akta lahir, pas foto, dan formulir N1–N4."
+  },
+  {
+    "source_id": 130,
+    "category": "pengulangan_penting",
+    "chunk_id": "130_0",
+    "text": "Tanpa wali atau saksi, akad nikah tidak dapat dilaksanakan di KUA."
+  },
+  {
+    "source_id": 131,
+    "category": "pengulangan_penting",
+    "chunk_id": "131_0",
+    "text": "Disabilitas tetap dapat menikah selama memenuhi syarat rukun nikah."
+  },
+  {
+    "source_id": 132,
+    "category": "extra_rag",
+    "chunk_id": "132_0",
+    "text": "Pendaftaran nikah dapat mulai diproses 10–20 menit jika semua dokumen lengkap."
+  },
+  {
+    "source_id": 133,
+    "category": "extra_rag",
+    "chunk_id": "133_0",
+    "text": "Dokumen hilang seperti buku nikah atau akta cerai dapat dicetak ulang melalui instansi terkait."
+  },
+  {
+    "source_id": 134,
+    "category": "extra_rag",
+    "chunk_id": "134_0",
+    "text": "Surat kuasa dapat digunakan jika pasangan atau wali berada di luar negeri."
+  },
+  {
+    "source_id": 135,
+    "category": "extra_rag",
+    "chunk_id": "135_0",
+    "text": "Tidak ada batas usia maksimal untuk menikah di KUA."
+  },
+  {
+    "source_id": 136,
+    "category": "final_summary",
+    "chunk_id": "136_0",
+    "text": "Syarat menikah di KUA meliputi dokumen identitas, formulir kelurahan, foto, wali, saksi, dan ketentuan usia, disertai dokumen tambahan sesuai kondisi seperti perbedaan domisili, status janda/duda, perpindahan agama, atau pasangan WNA."
+  },
+  {
+    "source_id": 137,
+    "category": "final_summary",
+    "chunk_id": "137_0",
+    "text": "Proses nikah di KUA membutuhkan kelengkapan dokumen, verifikasi calon pengantin, serta pemenuhan rukun dan syarat nikah sesuai hukum Islam dan administrasi negara."
+  }
+]

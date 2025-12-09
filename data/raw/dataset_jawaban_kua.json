@@ -1,0 +1,2574 @@
+[
+{
+"id": 1,
+"category": "persyaratan_nikah",
+"question": "Apa saja syarat dasar untuk mendaftar nikah di KUA?",
+"answer": "Syarat dasar meliputi KTP, KK, akta kelahiran, surat N1–N4 dari kelurahan, pas foto, dan calon pengantin tidak sedang terikat pernikahan lain."
+},
+{
+"id": 2,
+"category": "dokumen",
+"question": "Apa itu formulir N1 dalam proses pendaftaran nikah?",
+"answer": "Formulir N1 adalah Surat Keterangan Nikah yang diterbitkan oleh kelurahan sebagai bukti bahwa seseorang memenuhi syarat administratif untuk menikah."
+},
+{
+"id": 3,
+"category": "dokumen",
+"question": "Untuk apa formulir N2 diperlukan?",
+"answer": "Formulir N2 adalah Surat Keterangan Asal Usul yang menjelaskan identitas orang tua calon pengantin."
+},
+{
+"id": 4,
+"category": "dokumen",
+"question": "Apa fungsi formulir N3 dalam pendaftaran nikah?",
+"answer": "Formulir N3 adalah Surat Persetujuan Calon Pengantin yang ditandatangani kedua belah pihak untuk menyatakan persetujuan menikah."
+},
+{
+"id": 5,
+"category": "dokumen",
+"question": "Apa itu formulir N4?",
+"answer": "Formulir N4 adalah Surat Keterangan Tentang Orang Tua, berisi data ayah dan ibu dari masing-masing calon pengantin."
+},
+
+{
+"id": 6,
+"category": "wali",
+"question": "Siapa saja yang dapat menjadi wali nikah?",
+"answer": "Wali nikah adalah ayah kandung, jika tidak ada maka bisa digantikan oleh kakek, saudara laki-laki kandung, atau paman sesuai urutan wali nasab."
+},
+{
+"id": 7,
+"category": "wali",
+"question": "Apa yang terjadi jika ayah calon pengantin perempuan meninggal?",
+"answer": "Wali berpindah ke wali nasab berikutnya, seperti kakek atau saudara laki-laki kandung."
+},
+{
+"id": 8,
+"category": "wali",
+"question": "Kapan wali hakim digunakan?",
+"answer": "Wali hakim digunakan jika wali nasab tidak ada, tidak diketahui keberadaannya, atau menolak tanpa alasan syar’i."
+},
+
+{
+"id": 9,
+"category": "jadwal",
+"question": "Berapa lama sebelum hari akad harus daftar nikah di KUA?",
+"answer": "Pendaftaran dilakukan minimal 10 hari kerja sebelum akad, kecuali ada dispensasi camat."
+},
+{
+"id": 10,
+"category": "jadwal",
+"question": "Apakah bisa daftar nikah mendadak?",
+"answer": "Bisa dengan syarat mendapatkan surat dispensasi dari camat atau kelurahan."
+},
+
+{
+"id": 11,
+"category": "biaya",
+"question": "Berapa biaya menikah di KUA?",
+"answer": "Menikah di kantor KUA pada jam kerja adalah gratis berdasarkan peraturan pemerintah."
+},
+{
+"id": 12,
+"category": "biaya",
+"question": "Berapa biaya nikah di luar KUA?",
+"answer": "Biaya nikah di luar kantor atau di luar jam kerja adalah Rp600.000 sesuai PNBP."
+},
+
+{
+"id": 13,
+"category": "prosedur",
+"question": "Bagaimana alur pendaftaran nikah di KUA?",
+"answer": "Calon pengantin mengurus N1–N4 di kelurahan, mendaftar ke KUA, mengikuti pemeriksaan administrasi, cek kesehatan jika diperlukan, dan menentukan jadwal akad."
+},
+{
+"id": 14,
+"category": "prosedur",
+"question": "Apakah pendaftaran nikah bisa online?",
+"answer": "Bisa melalui aplikasi Simkah Web, namun tetap harus datang ke KUA untuk verifikasi dokumen."
+},
+{
+"id": 15,
+"category": "prosedur",
+"question": "Apa itu Simkah?",
+"answer": "Simkah adalah Sistem Informasi Manajemen Nikah yang digunakan KUA untuk pencatatan pernikahan."
+},
+
+{
+"id": 16,
+"category": "cerai_rujuk",
+"question": "Apa itu rujuk?",
+"answer": "Rujuk adalah mengembalikan hubungan pernikahan setelah talak raj'i selama masih dalam masa iddah."
+},
+{
+"id": 17,
+"category": "cerai_rujuk",
+"question": "Apa syarat melakukan rujuk?",
+"answer": "Syarat rujuk meliputi bukti perceraian, masih dalam masa iddah, dan kehadiran kedua pihak di KUA."
+},
+{
+"id": 18,
+"category": "cerai_rujuk",
+"question": "Apakah rujuk dikenai biaya?",
+"answer": "Proses rujuk di KUA tidak dikenai biaya atau gratis."
+},
+
+{
+"id": 19,
+"category": "teknis_akad",
+"question": "Berapa jumlah saksi yang dibutuhkan untuk akad nikah?",
+"answer": "Akad nikah harus disaksikan minimal dua saksi laki-laki yang adil."
+},
+{
+"id": 20,
+"category": "teknis_akad",
+"question": "Apakah saksi boleh dari keluarga?",
+"answer": "Boleh, selama memenuhi syarat laki-laki, beragama Islam, baligh, dan adil."
+},
+
+{
+"id": 21,
+"category": "kesehatan",
+"question": "Apakah cek kesehatan wajib sebelum nikah?",
+"answer": "Tergantung kebijakan daerah masing-masing, namun umumnya dianjurkan, terutama vaksinasi TT bagi calon pengantin perempuan."
+},
+
+{
+"id": 22,
+"category": "persyaratan_nikah",
+"question": "Apakah janda yang ingin menikah harus membawa akta cerai?",
+"answer": "Ya, akta cerai asli diperlukan sebagai bukti bahwa pernikahan sebelumnya telah putus."
+},
+
+{
+"id": 23,
+"category": "persyaratan_nikah",
+"question": "Apa syarat menikah untuk duda?",
+"answer": "Duda harus membawa akta cerai atau surat kematian istri sebelumnya."
+},
+
+{
+"id": 24,
+"category": "umum",
+"question": "Apakah KIA bisa digunakan untuk daftar nikah?",
+"answer": "Tidak, KUA tetap membutuhkan KTP sebagai dokumen resmi."
+},
+
+{
+"id": 25,
+"category": "dokumen",
+"question": "Apa itu surat rekomendasi nikah?",
+"answer": "Surat rekomendasi nikah diberikan KUA asal jika calon pengantin akan menikah di KUA lain."
+},
+
+{
+"id": 26,
+"category": "dokumen",
+"question": "Siapa yang memerlukan surat pindah nikah?",
+"answer": "Calon pengantin yang akan melangsungkan akad di KUA luar domisili KTP."
+},
+
+{
+"id": 27,
+"category": "teknis_akad",
+"question": "Apa yang harus dibawa saat akad nikah?",
+"answer": "Bawa dokumen asli, mahar, dua saksi, wali, dan hadir minimal 30 menit sebelum jadwal akad."
+},
+
+{
+"id": 28,
+"category": "administrasi",
+"question": "Apakah KUA menyediakan tempat akad?",
+"answer": "Ya, setiap KUA menyediakan ruang akad untuk pasangan yang ingin menikah di kantor."
+},
+
+{
+"id": 29,
+"category": "administrasi",
+"question": "Berapa lama buku nikah selesai setelah akad?",
+"answer": "Buku nikah biasanya selesai pada hari yang sama setelah prosesi akad dan tanda tangan."
+},
+
+{
+"id": 30,
+"category": "biaya",
+"question": "Apakah ada biaya untuk cetak ulang buku nikah?",
+"answer": "Cetak ulang buku nikah karena hilang dikenakan biaya PNBP sesuai aturan yang berlaku."
+},
+
+{
+"id": 31,
+"category": "cerai_rujuk",
+"question": "Berapa lama masa iddah untuk rujuk?",
+"answer": "Masa iddah biasanya 3 kali masa haid bagi perempuan yang haid, atau 3 bulan bagi yang tidak haid."
+},
+
+{
+"id": 32,
+"category": "prosedur",
+"question": "Apa itu pemeriksaan administrasi di KUA?",
+"answer": "Petugas memeriksa kelengkapan dokumen, keabsahan data, dan memastikan kedua pihak memenuhi syarat menikah."
+},
+
+{
+"id": 33,
+"category": "prosedur",
+"question": "Apakah orang tua harus hadir saat daftar nikah?",
+"answer": "Tidak wajib, tetapi tanda tangan dokumen N4 tetap diperlukan."
+},
+
+{
+"id": 34,
+"category": "dokumen",
+"question": "Apakah KK wajib untuk daftar nikah?",
+"answer": "Ya, KK digunakan untuk verifikasi keluarga dan domisili."
+},
+
+{
+"id": 35,
+"category": "umum",
+"question": "Apakah KUA buka pada hari Sabtu?",
+"answer": "Sebagian besar KUA tidak buka pelayanan administrasi pada hari Sabtu kecuali akad."
+},
+
+{
+"id": 36,
+"category": "teknis_akad",
+"question": "Apakah mahar harus berupa uang?",
+"answer": "Tidak, mahar bisa berupa uang, emas, barang, atau hafalan Al-Quran sesuai kesepakatan."
+},
+
+{
+"id": 37,
+"category": "umum",
+"question": "Bisakah menikah tanpa wali?",
+"answer": "Tidak bisa, karena wali merupakan rukun sah nikah. Jika wali tidak ada maka diproses wali hakim."
+},
+
+{
+"id": 38,
+"category": "persyaratan_nikah",
+"question": "Apakah surat vaksin diperlukan?",
+"answer": "Tergantung kebijakan daerah, tetapi tidak menjadi syarat mutlak nasional."
+},
+
+{
+"id": 39,
+"category": "teknis_akad",
+"question": "Berapa lama prosesi akad berlangsung?",
+"answer": "Umumnya 15–30 menit termasuk ijab kabul dan penandatanganan dokumen."
+},
+
+{
+"id": 40,
+"category": "administrasi",
+"question": "Apakah pasangan beda agama bisa daftar nikah di KUA?",
+"answer": "Tidak bisa, pernikahan di KUA hanya untuk pasangan Muslim."
+},
+
+{
+"id": 41,
+"category": "pendataan",
+"question": "Apa itu data pra-nikah?",
+"answer": "Data pra-nikah adalah informasi awal seperti identitas, tempat akad, dan wali sebelum proses administrasi lengkap."
+},
+
+{
+"id": 42,
+"category": "pendataan",
+"question": "Mengapa nomor telepon wajib dicantumkan?",
+"answer": "Nomor telepon diperlukan untuk konfirmasi jadwal, perubahan, atau kelengkapan data."
+},
+
+{
+"id": 43,
+"category": "prosedur",
+"question": "Apakah bisa daftar nikah tanpa pasangan hadir?",
+"answer": "Bisa untuk tahap administrasi awal, tetapi verifikasi akhir wajib hadir bersama."
+},
+
+{
+"id": 44,
+"category": "prosedur",
+"question": "Apa itu pemeriksaan nikah?",
+"answer": "Petugas KUA memverifikasi data, menanyakan kesiapan calon pengantin, dan memeriksa wali serta saksi."
+},
+
+{
+"id": 45,
+"category": "biaya",
+"question": "Kenapa ada biaya menikah di luar KUA?",
+"answer": "Biaya dikenakan karena petugas keluar kantor dan diatur dalam PNBP."
+},
+
+{
+"id": 46,
+"category": "cerai_rujuk",
+"question": "Apakah rujuk harus dilakukan di KUA?",
+"answer": "Ya, rujuk harus tercatat di KUA untuk sah secara administrasi negara."
+},
+
+{
+"id": 47,
+"category": "cerai_rujuk",
+"question": "Bisakah rujuk dilakukan tanpa kehadiran istri?",
+"answer": "Tidak bisa, kedua pihak wajib hadir."
+},
+
+{
+"id": 48,
+"category": "administrasi",
+"question": "Apakah akta kelahiran penting untuk daftar nikah?",
+"answer": "Ya, akta kelahiran membantu verifikasi usia dan orang tua."
+},
+
+{
+"id": 49,
+"category": "umum",
+"question": "Apakah boleh menikah di rumah?",
+"answer": "Boleh, namun dikenakan biaya Rp600.000 untuk layanan luar kantor."
+},
+
+{
+"id": 50,
+"category": "dokumen",
+"question": "Apakah pas foto diperlukan?",
+"answer": "Ya, biasanya pas foto 2x3 dan 4x6 sebagai syarat administrasi."
+},
+
+{
+"id": 51,
+"category": "umum",
+"question": "Berapa umur minimal menikah di KUA?",
+"answer": "Minimal 19 tahun untuk laki-laki dan perempuan."
+},
+{
+"id": 52,
+"category": "dokumen",
+"question": "Apakah harus membawa fotokopi KTP orang tua?",
+"answer": "Biasanya diperlukan untuk melengkapi formulir N4."
+},
+{
+"id": 53,
+"category": "teknis_akad",
+"question": "Siapa yang boleh menjadi penghulu?",
+"answer": "Penghulu adalah pegawai KUA yang ditunjuk untuk memimpin akad."
+},
+{
+"id": 54,
+"category": "prosedur",
+"question": "Apakah harus melakukan bimbingan pra-nikah?",
+"answer": "Beberapa daerah menyediakan bimbingan pra-nikah secara wajib atau rekomendasi."
+},
+{
+"id": 55,
+"category": "biaya",
+"question": "Apa biaya administrasi KUA lainnya?",
+"answer": "Selain biaya akad luar kantor, layanan pencatatan lain mengikuti aturan PNBP."
+},
+{
+"id": 56,
+"category": "administrasi",
+"question": "Apakah buku nikah bisa diganti dengan kartu nikah digital?",
+"answer": "Ya, pasangan biasanya mendapat akses kartu nikah digital setelah akad."
+},
+{
+"id": 57,
+"category": "pendataan",
+"question": "Apakah nomor KK harus sama untuk mendaftar?",
+"answer": "Tidak harus sama, calon pengantin bisa berasal dari KK berbeda."
+},
+{
+"id": 58,
+"category": "umum",
+"question": "Apa hukum foto tanpa jilbab untuk pas foto nikah?",
+"answer": "KUA tidak mewajibkan jilbab, tergantung preferensi pemohon."
+},
+{
+"id": 59,
+"category": "dokumen",
+"question": "Apa syarat menikah untuk WNI di luar negeri?",
+"answer": "Harus melalui KBRI atau KJRI di negara setempat."
+},
+{
+"id": 60,
+"category": "dokumen",
+"question": "Apa itu surat keterangan belum menikah?",
+"answer": "Surat yang membuktikan seseorang belum pernah menikah, biasanya dari kelurahan."
+},
+
+{
+"id": 61,
+"question": "Apa itu surat keterangan numpang nikah?",
+"answer": "Surat keterangan numpang nikah adalah surat yang dikeluarkan oleh KUA asal domisili calon pengantin untuk memberi izin melaksanakan pernikahan di KUA lain.",
+"tags": ["numpang nikah", "dokumen"]
+},
+{
+"id": 62,
+"question": "Apakah rujuk harus dilakukan di KUA yang sama tempat menikah?",
+"answer": "Tidak wajib. Rujuk dapat dilakukan di KUA mana saja sesuai domisili pasangan, namun membawa dokumen perceraian talak satu atau dua sangat dianjurkan.",
+"tags": ["rujuk", "persyaratan rujuk"]
+},
+{
+"id": 63,
+"question": "Apakah calon pengantin boleh beda kota?",
+"answer": "Boleh. Pernikahan tetap bisa dilakukan dengan melampirkan surat numpang nikah atau surat rekomendasi nikah dari KUA domisili masing-masing.",
+"tags": ["nikah beda kota", "rekomendasi nikah"]
+},
+{
+"id": 64,
+"question": "Siapa yang berhak menjadi wali nikah?",
+"answer": "Wali nikah adalah ayah kandung. Jika ayah meninggal atau tidak memenuhi syarat, wali berpindah ke wali nasab sesuai urutan. Jika tidak ada wali nasab, maka wali hakim dapat ditunjuk KUA.",
+"tags": ["wali nikah"]
+},
+{
+"id": 65,
+"question": "Apa yang dimaksud wali hakim?",
+"answer": "Wali hakim adalah wali yang ditunjuk oleh negara melalui KUA apabila calon pengantin perempuan tidak memiliki wali nasab yang sah atau wali tidak memenuhi syarat.",
+"tags": ["wali hakim"]
+},
+{
+"id": 66,
+"question": "Kapan diperlukan surat dispensasi wali?",
+"answer": "Surat dispensasi wali diperlukan ketika wali nasab tidak dapat hadir atau keberadaannya tidak diketahui, sehingga KUA dapat mengalihkan kewenangan kepada wali hakim.",
+"tags": ["wali", "wali hakim"]
+},
+{
+"id": 67,
+"question": "Apa itu surat keterangan belum menikah?",
+"answer": "Surat keterangan belum menikah adalah dokumen dari kelurahan atau desa yang menyatakan bahwa seseorang belum pernah menikah sebelumnya.",
+"tags": ["dokumen nikah"]
+},
+{
+"id": 68,
+"question": "Apa perbedaan cerai talak dan cerai gugat?",
+"answer": "Cerai talak diajukan oleh suami melalui pengadilan agama. Cerai gugat diajukan oleh istri. Hal ini memengaruhi prosedur rujuk.",
+"tags": ["perceraian", "rujuk"]
+},
+{
+"id": 69,
+"question": "Apakah rujuk bisa dilakukan tanpa saksi?",
+"answer": "Tidak bisa. Proses rujuk harus disaksikan minimal dua saksi laki-laki yang adil dan dilaporkan ke KUA.",
+"tags": ["rujuk"]
+},
+{
+"id": 70,
+"question": "Apakah nikah siri bisa dicatatkan di KUA?",
+"answer": "Nikah siri tidak dapat dicatatkan langsung. Pasangan harus melakukan isbat nikah di pengadilan agama terlebih dahulu.",
+"tags": ["isbat nikah"]
+},
+{
+"id": 71,
+"question": "Apa itu isbat nikah?",
+"answer": "Isbat nikah adalah proses penetapan keabsahan pernikahan oleh pengadilan agama agar dapat dicatatkan secara resmi.",
+"tags": ["isbat nikah"]
+},
+{
+"id": 72,
+"question": "Apakah pasangan harus tes kesehatan sebelum nikah?",
+"answer": "Beberapa daerah mewajibkan pemeriksaan kesehatan seperti tes HIV atau imunisasi TT. Ketentuan bergantung kebijakan daerah masing-masing.",
+"tags": ["kesehatan nikah"]
+},
+{
+"id": 73,
+"question": "Berapa ukuran foto untuk pendaftaran nikah?",
+"answer": "Umumnya KUA meminta foto ukuran 2x3 dan 4x6 dengan latar merah atau biru, sesuai ketentuan KUA setempat.",
+"tags": ["dokumen nikah"]
+},
+{
+"id": 74,
+"question": "Apakah dapat menikah di luar jam kerja KUA?",
+"answer": "Bisa, namun termasuk layanan luar kantor dan biasanya dikenakan biaya sesuai aturan KUA daerah.",
+"tags": ["biaya nikah", "jadwal nikah"]
+},
+{
+"id": 75,
+"question": "Apa itu daftar nikah model N?",
+"answer": "Model N adalah formulir resmi dari desa atau kelurahan yang meliputi N1 hingga N7 sebagai persyaratan dasar administrasi nikah.",
+"tags": ["formulir nikah"]
+},
+{
+"id": 76,
+"question": "Apakah surat N1–N4 wajib untuk menikah?",
+"answer": "Ya. Surat N1–N4 adalah dokumen standar yang wajib dilampirkan saat mendaftar nikah di KUA.",
+"tags": ["formulir nikah"]
+},
+{
+"id": 77,
+"question": "Berapa lama proses pencatatan rujuk?",
+"answer": "Biasanya proses pencatatan rujuk selesai dalam 1–3 hari kerja setelah semua dokumen lengkap.",
+"tags": ["rujuk"]
+},
+{
+"id": 78,
+"question": "Apakah menikah di hari libur diperbolehkan?",
+"answer": "Boleh, namun termasuk layanan luar kantor dan dapat dikenakan biaya tambahan.",
+"tags": ["jadwal nikah"]
+},
+{
+"id": 79,
+"question": "Apakah KUA menyediakan penghulu perempuan?",
+"answer": "Penghulu umumnya laki-laki karena tugasnya berkaitan dengan perwalian dan proses akad. Namun petugas KUA perempuan dapat hadir sebagai staf pencatat.",
+"tags": ["penghulu"]
+},
+{
+"id": 80,
+"question": "Siapa yang mengucapkan ijab kabul?",
+"answer": "Ijab diberikan oleh wali, dan kabul diucapkan oleh calon suami.",
+"tags": ["akad nikah"]
+},
+{
+"id": 81,
+"question": "Apakah boleh akad nikah tanpa mahar?",
+"answer": "Mahar wajib hukumnya dalam nikah. Mahar boleh bernilai kecil atau besar, namun tidak boleh dihilangkan.",
+"tags": ["mahar"]
+},
+{
+"id": 82,
+"question": "Apakah mahar harus berupa uang?",
+"answer": "Tidak. Mahar dapat berupa uang, emas, alat ibadah, hafalan Al-Qur'an, atau barang lain yang halal dan disepakati.",
+"tags": ["mahar"]
+},
+{
+"id": 83,
+"question": "Apakah harus mengikuti bimbingan pranikah?",
+"answer": "Beberapa KUA mewajibkan bimbingan pranikah untuk memberikan edukasi, namun tergantung kebijakan daerah.",
+"tags": ["bimbingan pranikah"]
+},
+{
+"id": 84,
+"question": "Dokumen apa yang diperlukan untuk menikah dengan WNA?",
+"answer": "Dibutuhkan paspor, surat izin menikah dari kedutaan, dan terjemahan dokumen resmi yang disahkan. Prosedurnya berbeda dari WNI.",
+"tags": ["nikah WNA"]
+},
+{
+"id": 85,
+"question": "Apa itu surat keterangan domisili?",
+"answer": "Surat keterangan domisili adalah surat dari kelurahan yang menyatakan alamat tempat tinggal seseorang.",
+"tags": ["dokumen"]
+},
+{
+"id": 86,
+"question": "Bolehkah menikah tanpa KTP?",
+"answer": "Tidak bisa. KTP atau identitas resmi adalah syarat dasar untuk pendaftaran nikah.",
+"tags": ["dokumen nikah"]
+},
+{
+"id": 87,
+"question": "Apakah surat kehilangan KTP bisa dipakai untuk daftar nikah?",
+"answer": "Bisa digunakan sementara bersama Kartu Keluarga sebagai pendukung, namun harus disesuaikan kebijakan KUA setempat.",
+"tags": ["dokumen nikah"]
+},
+{
+"id": 88,
+"question": "Apakah KUA menyediakan kursus calon pengantin?",
+"answer": "Ya, beberapa KUA menyediakan kelas atau modul untuk calon pengantin sebagai persyaratan bimbingan.",
+"tags": ["bimbingan nikah"]
+},
+{
+"id": 89,
+"question": "Kapan waktu terbaik mengajukan pendaftaran nikah?",
+"answer": "Paling lambat 10 hari kerja sebelum akad, namun disarankan lebih awal agar dokumen dapat diperiksa dengan baik.",
+"tags": ["pendaftaran nikah"]
+},
+{
+"id": 90,
+"question": "Apakah saksi akad boleh keluarga sendiri?",
+"answer": "Boleh, selama laki-laki, baligh, berakal, muslim, dan memenuhi syarat adil.",
+"tags": ["saksi nikah"]
+},
+{
+"id": 91,
+"question": "Apakah akad nikah bisa bahasa selain bahasa Indonesia?",
+"answer": "Boleh menggunakan bahasa daerah atau Arab, asalkan maknanya jelas dan dipahami kedua pihak.",
+"tags": ["akad nikah"]
+},
+{
+"id": 92,
+"question": "Apakah harus melampirkan akta kelahiran untuk nikah?",
+"answer": "Tidak selalu wajib, tetapi beberapa KUA memintanya untuk memastikan data orang tua.",
+"tags": ["dokumen nikah"]
+},
+{
+"id": 93,
+"question": "Bagaimana jika orang tua sudah meninggal?",
+"answer": "Dibutuhkan surat keterangan kematian dan wali berpindah ke wali nasab berikutnya.",
+"tags": ["wali nikah"]
+},
+{
+"id": 94,
+"question": "Apakah boleh menikah di masjid?",
+"answer": "Boleh. Akad nikah dapat dilakukan di masjid selama ada persetujuan pengelola masjid dan penghulu dapat hadir.",
+"tags": ["lokasi akad"]
+},
+{
+"id": 95,
+"question": "Apakah boleh menikah di rumah?",
+"answer": "Boleh, namun termasuk layanan luar kantor dan dapat dikenakan biaya tambahan.",
+"tags": ["lokasi akad", "biaya nikah"]
+},
+{
+"id": 96,
+"question": "Apakah perempuan bisa menjadi saksi akad nikah?",
+"answer": "Untuk akad nikah, saksi harus dua laki-laki muslim yang adil.",
+"tags": ["saksi nikah"]
+},
+{
+"id": 97,
+"question": "Apakah harus melampirkan KK saat menikah?",
+"answer": "Ya, Kartu Keluarga diperlukan untuk verifikasi data.",
+"tags": ["dokumen nikah"]
+},
+{
+"id": 98,
+"question": "Berapa biaya pencatatan rujuk?",
+"answer": "Pencatatan rujuk umumnya gratis di kantor KUA selama dilakukan pada jam layanan.",
+"tags": ["rujuk", "biaya"]
+},
+{
+"id": 99,
+"question": "Apakah boleh menikah saat masih dalam masa iddah?",
+"answer": "Tidak boleh. Perempuan harus menunggu masa iddah selesai sebelum menikah kembali.",
+"tags": ["masa iddah"]
+},
+{
+"id": 100,
+"question": "Apa itu masa iddah?",
+"answer": "Masa iddah adalah masa tunggu setelah perceraian atau kematian suami sebelum perempuan boleh menikah kembali.",
+"tags": ["iddah"]
+},
+{
+"id": 101,
+"question": "Apa itu verifikasi lapangan sebelum menikah di KUA?",
+"answer": "Verifikasi lapangan adalah pengecekan data calon pengantin oleh petugas KUA, biasanya mencakup alamat, keberadaan wali, dan keabsahan dokumen."
+},
+{
+"id": 102,
+"question": "Apakah pendaftaran nikah bisa dilakukan tanpa kehadiran salah satu calon?",
+"answer": "Bisa, namun calon pengantin yang tidak hadir wajib memberikan surat kuasa bermaterai dan alasan ketidakhadirannya."
+},
+{
+"id": 103,
+"question": "Kapan waktu terbaik untuk mendaftar nikah di KUA?",
+"answer": "Paling baik mendaftar minimal 10–30 hari sebelum tanggal akad untuk menghindari antrian dan memastikan kelengkapan berkas."
+},
+{
+"id": 104,
+"question": "Apa syarat menikah bagi WNI yang baru kembali dari luar negeri?",
+"answer": "Membawa surat keterangan belum menikah dari perwakilan RI di negara tersebut serta legalisasi dokumen terkait."
+},
+{
+"id": 105,
+"question": "Bagaimana alur pendaftaran nikah bagi WNI yang berdomisili berbeda?",
+"answer": "Calon pengantin meminta surat numpang nikah dari KUA domisili, kemudian menyerahkannya ke KUA lokasi akad."
+},
+{
+"id": 106,
+"question": "Apakah calon pengantin boleh memilih penghulu sendiri?",
+"answer": "Boleh jika penghulu bersedia dan sesuai regulasi, namun penjadwalan tetap melalui KUA."
+},
+{
+"id": 107,
+"question": "Apa itu tanda terima pendaftaran nikah?",
+"answer": "Tanda terima adalah bukti bahwa berkas nikah telah diterima dan jadwal pemeriksaan nikah sudah ditetapkan."
+},
+{
+"id": 108,
+"question": "Dokumen apa yang harus dibawa saat pemeriksaan nikah?",
+"answer": "KTP, KK, akta kelahiran, pas foto, dan semua formulir N1–N4 atau dokumen pengganti jika sudah digital."
+},
+{
+"id": 109,
+"question": "Apakah KUA menyediakan layanan konseling pranikah?",
+"answer": "Beberapa KUA menyediakan konseling pranikah terkait kesiapan mental, administrasi, dan hukum perkawinan."
+},
+{
+"id": 110,
+"question": "Berapa lama pemeriksaan nikah biasanya berlangsung?",
+"answer": "Biasanya 15–30 menit tergantung kelengkapan data calon pengantin."
+},
+
+{
+"id": 111,
+"question": "Apa itu penelitian wali?",
+"answer": "Penelitian wali adalah pemeriksaan keabsahan wali nasab calon pengantin perempuan untuk memastikan status perwaliannya."
+},
+{
+"id": 112,
+"question": "Bagaimana cara mengurus wali hakim?",
+"answer": "Ajukan permohonan ke KUA dengan menjelaskan alasan, seperti wali tidak diketahui keberadaannya, tidak memenuhi syarat, atau menolak menikahkan."
+},
+{
+"id": 113,
+"question": "Apakah KUA menerima pembayaran non-tunai untuk nikah luar kantor?",
+"answer": "Kebanyakan KUA sudah menerima pembayaran non-tunai melalui bank atau aplikasi resmi pemerintah."
+},
+{
+"id": 114,
+"question": "Apakah bimbingan perkawinan wajib bagi semua calon pengantin?",
+"answer": "Tidak semua daerah mewajibkan, namun sangat dianjurkan untuk kesiapan sebelum menikah."
+},
+{
+"id": 115,
+"question": "Berapa lama proses rujuk dicatat di KUA?",
+"answer": "Proses pencatatan rujuk umumnya selesai dalam 10–20 menit jika seluruh dokumen sudah lengkap."
+},
+{
+"id": 116,
+"question": "Apa yang dilakukan jika buku nikah hilang?",
+"answer": "Ajukan permohonan duplikat buku nikah ke KUA tempat pernikahan dicatat dengan membawa surat kehilangan dari kepolisian."
+},
+{
+"id": 117,
+"question": "Kapan surat rekomendasi nikah diperlukan?",
+"answer": "Jika calon pengantin ingin menikah di KUA yang berbeda dengan domisilinya."
+},
+{
+"id": 118,
+"question": "Apakah KUA menyediakan tempat untuk akad?",
+"answer": "Ya, sebagian besar KUA menyediakan ruang khusus untuk pelaksanaan akad secara gratis."
+},
+{
+"id": 119,
+"question": "Apakah wali perempuan bisa digantikan?",
+"answer": "Bisa oleh wali hakim jika wali nasab tidak memenuhi syarat atau tidak ada."
+},
+{
+"id": 120,
+"question": "Apakah foto calon pengantin harus berwarna?",
+"answer": "Ya, biasanya foto berwarna dengan latar biru atau merah sesuai ketentuan KUA setempat."
+},
+
+{
+"id": 121,
+"question": "Apakah pernikahan bisa dilaksanakan di luar jam kerja KUA?",
+"answer": "Bisa untuk nikah luar kantor, namun harus menghubungi penghulu dan menyesuaikan jadwal."
+},
+{
+"id": 122,
+"question": "Berapa ukuran foto yang dibutuhkan untuk daftar nikah?",
+"answer": "Umumnya 2×3 dan 3×4 masing-masing beberapa lembar, tergantung kebijakan KUA."
+},
+{
+"id": 123,
+"question": "Apakah pasangan yang telah bercerai bisa menikah kembali langsung?",
+"answer": "Bisa jika masa iddah telah selesai dan membawa salinan putusan cerai resmi."
+},
+{
+"id": 124,
+"question": "Apa itu masa iddah?",
+"answer": "Masa iddah adalah masa tunggu bagi perempuan setelah perceraian atau ditinggal wafat suami sebelum bisa menikah kembali."
+},
+{
+"id": 125,
+"question": "Berapa biaya rujuk di KUA?",
+"answer": "Pencatatan rujuk di kantor KUA tidak dipungut biaya."
+},
+{
+"id": 126,
+"question": "Apakah bukti perceraian wajib untuk rujuk?",
+"answer": "Ya, rujuk hanya bisa dilakukan pada pasangan yang bercerai talak satu atau talak dua."
+},
+{
+"id": 127,
+"question": "Apa itu daftar pemeriksaan nikah?",
+"answer": "Daftar pemeriksaan nikah adalah formulir berisi informasi detail calon pengantin untuk pengecekan identitas sebelum akad."
+},
+{
+"id": 128,
+"question": "Apakah pasangan beda provinsi bisa menikah di salah satu provinsi saja?",
+"answer": "Bisa, dengan catatan pasangan yang berasal dari provinsi berbeda harus mengurus surat numpang nikah."
+},
+{
+"id": 129,
+"question": "Bagaimana cara membatalkan pendaftaran nikah?",
+"answer": "Ajukan pembatalan secara resmi ke KUA sebelum jadwal akad ditetapkan."
+},
+{
+"id": 130,
+"question": "Siapa yang bertanggung jawab mencatat rujuk?",
+"answer": "Petugas KUA atau penghulu yang ditugaskan mencatat rujuk dan menerbitkan dokumen resmi."
+},
+
+{
+"id": 131,
+"question": "Apakah nomor HP wajib saat daftar nikah?",
+"answer": "Ya, untuk keperluan verifikasi dan penghubung antara petugas dan calon pengantin."
+},
+{
+"id": 132,
+"question": "Apakah calon pengantin wajib mengikuti bimbingan pranikah?",
+"answer": "Tidak wajib, tetapi sangat disarankan untuk persiapan mental dan pemahaman hukum."
+},
+{
+"id": 133,
+"question": "Bagaimana mengurus persetujuan nikah dari orang tua?",
+"answer": "Orang tua menandatangani formulir persetujuan nikah (N5) atau memberikan surat pernyataan bermaterai."
+},
+{
+"id": 134,
+"question": "Bisakah rujuk dilakukan tanpa saksi?",
+"answer": "Tidak bisa, rujuk harus disaksikan minimal dua saksi."
+},
+{
+"id": 135,
+"question": "Apa itu surat keterangan kematian suami?",
+"answer": "Dokumen resmi dari pemerintah yang diperlukan perempuan yang ingin menikah setelah ditinggal wafat suaminya."
+},
+{
+"id": 136,
+"question": "Apakah rujuk dicatat di buku nikah?",
+"answer": "Ya, rujuk dicatat pada buku nikah dan sistem administrasi KUA."
+},
+{
+"id": 137,
+"question": "Apakah pernikahan di kantor KUA gratis setiap hari?",
+"answer": "Gratis pada jam kerja kantor KUA."
+},
+{
+"id": 138,
+"question": "Apakah penghulu boleh menerima uang transport tambahan?",
+"answer": "Tidak boleh, karena layanan memiliki tarif resmi dan pengawasan ketat."
+},
+{
+"id": 139,
+"question": "Berapa hari sebelum nikah formulir harus lengkap?",
+"answer": "Minimal 10 hari sebelum akad atau mengikuti kebijakan KUA."
+},
+{
+"id": 140,
+"question": "Bisakah pasangan menikah tanpa wali?",
+"answer": "Tidak bisa, kecuali menggunakan wali hakim sesuai prosedur."
+},
+
+{
+"id": 141,
+"question": "Apa fungsi KUA dalam pencatatan pernikahan?",
+"answer": "KUA berwenang melakukan pemeriksaan, pencatatan, dan penerbitan dokumen nikah bagi pasangan Muslim."
+},
+{
+"id": 142,
+"question": "Apakah boleh menikah di masjid melalui KUA?",
+"answer": "Boleh, selama masjid berada dalam wilayah KUA tersebut dan jadwal penghulu tersedia."
+},
+{
+"id": 143,
+"question": "Apakah pasangan harus membawa meterai?",
+"answer": "Ya, meterai biasanya digunakan untuk pernyataan atau surat kuasa."
+},
+{
+"id": 144,
+"question": "Bagaimana cara mengurus pencatatan rujuk tanpa buku nikah?",
+"answer": "Harus membuat duplikat buku nikah terlebih dahulu di KUA tempat pernikahan dicatat."
+},
+{
+"id": 145,
+"question": "Bisakah pendaftaran nikah dibatalkan setelah jadwal ditetapkan?",
+"answer": "Bisa, tetapi perlu pemberitahuan tertulis kepada KUA."
+},
+{
+"id": 146,
+"question": "Apakah pengantin harus menjalani wawancara sebelum akad?",
+"answer": "Umumnya ada sesi tanya-jawab singkat untuk memastikan kesesuaian data."
+},
+{
+"id": 147,
+"question": "Kapan rujuk tidak bisa dilakukan?",
+"answer": "Jika sudah talak tiga atau masa iddah telah habis."
+},
+{
+"id": 148,
+"question": "Apa itu surat izin orang tua?",
+"answer": "Surat pernyataan persetujuan nikah bagi calon pengantin yang belum berusia 21 tahun."
+},
+{
+"id": 149,
+"question": "Apakah pasangan beda usia jauh bisa menikah di KUA?",
+"answer": "Bisa selama memenuhi syarat usia dan administratif lainnya."
+},
+{
+"id": 150,
+"question": "Bisakah KUA menolak permohonan nikah?",
+"answer": "Bisa jika syarat tidak terpenuhi atau ditemukan pelanggaran hukum."
+},
+
+{
+"id": 151,
+"question": "Apakah perlu tes kesehatan sebelum menikah?",
+"answer": "Beberapa daerah mewajibkan tes kesehatan seperti imunisasi atau skrining penyakit tertentu."
+},
+{
+"id": 152,
+"question": "Apa itu pemeriksaan dokumen wali?",
+"answer": "Pemeriksaan untuk memastikan wali memenuhi syarat syar'i dan legal."
+},
+{
+"id": 153,
+"question": "Dapatkah calon pengantin menikah tanpa KTP?",
+"answer": "Tidak bisa, kecuali ada surat keterangan pengganti identitas resmi."
+},
+{
+"id": 154,
+"question": "Apakah pendaftaran nikah bisa direvisi?",
+"answer": "Bisa, seperti perubahan jadwal atau lokasi akad, selama disetujui KUA."
+},
+{
+"id": 155,
+"question": "Apakah surat cerai wajib untuk menikah kembali?",
+"answer": "Ya, surat cerai resmi wajib sebagai bukti status."
+},
+{
+"id": 156,
+"question": "Siapa saja yang harus hadir saat akad nikah?",
+"answer": "Calon pengantin, wali, dua saksi, dan penghulu."
+},
+{
+"id": 157,
+"question": "Apakah boleh menggunakan saksi keluarga sendiri?",
+"answer": "Boleh, asalkan memenuhi syarat sebagai saksi."
+},
+{
+"id": 158,
+"question": "Apa itu penetapan PA dalam konteks nikah?",
+"answer": "Penetapan Pengadilan Agama terkait perkara seperti dispensasi nikah atau wali hakim."
+},
+{
+"id": 159,
+"question": "Apakah nomor antrean berlaku untuk seluruh layanan KUA?",
+"answer": "Tergantung KUA masing-masing, namun sebagian sudah memakai sistem antrean."
+},
+{
+"id": 160,
+"question": "Apakah nikah online diperbolehkan?",
+"answer": "Pendaftaran online diperbolehkan, tetapi akad harus dilakukan secara langsung."
+},
+
+{
+"id": 161,
+"question": "Apa itu surat pemeriksaan nikah?",
+"answer": "Surat yang mencatat hasil pemeriksaan identitas dan status calon pengantin."
+},
+{
+"id": 162,
+"question": "Apakah bisa mendaftar nikah tanpa KK?",
+"answer": "Tidak bisa, kecuali membawa KK sementara atau surat keterangan dari kelurahan."
+},
+{
+"id": 163,
+"question": "Apakah KUA menyediakan layanan konsultasi hukum keluarga?",
+"answer": "Beberapa KUA menyediakan layanan tersebut untuk membantu masyarakat memahami aturan pernikahan."
+},
+{
+"id": 164,
+"question": "Apa yang harus dipersiapkan untuk rujuk?",
+"answer": "Buku nikah, saksi, dan pernyataan rujuk antara suami dan istri."
+},
+{
+"id": 165,
+"question": "Apakah nikah siri bisa dicatatkan di KUA?",
+"answer": "Tidak langsung. Harus mengajukan isbat nikah ke PA terlebih dahulu."
+},
+{
+"id": 166,
+"question": "Apakah calon pengantin boleh memilih saksi sendiri?",
+"answer": "Boleh selama saksi memenuhi syarat hukum."
+},
+{
+"id": 167,
+"question": "Apa fungsi formulir N2?",
+"answer": "Formulir N2 berisi keterangan asal-usul calon pengantin."
+},
+{
+"id": 168,
+"question": "Apa fungsi formulir N3?",
+"answer": "Formulir N3 adalah surat persetujuan calon pengantin."
+},
+{
+"id": 169,
+"question": "Apa fungsi formulir N4?",
+"answer": "Formulir N4 adalah surat keterangan tentang orang tua."
+},
+{
+"id": 170,
+"question": "Bagaimana jika wali menolak menikahkan?",
+"answer": "Calon pengantin bisa mengajukan penetapan wali hakim di PA."
+},
+
+{
+"id": 171,
+"question": "Apakah penghulu harus dari KUA tempat menikah?",
+"answer": "Umumnya ya, tapi bisa meminta penghulu lain jika disetujui."
+},
+{
+"id": 172,
+"question": "Berapa lama masa berlaku rekomendasi nikah?",
+"answer": "Masa berlakunya mengikuti kebijakan KUA, umumnya 1 bulan."
+},
+{
+"id": 173,
+"question": "Apakah harus mengurus surat sehat sebelum menikah?",
+"answer": "Tidak selalu wajib, tetapi dianjurkan."
+},
+{
+"id": 174,
+"question": "Apakah bisa akad di rumah sakit?",
+"answer": "Bisa dengan pengajuan layanan nikah luar kantor."
+},
+{
+"id": 175,
+"question": "Apa itu pencatatan rujuk?",
+"answer": "Pencatatan rujuk adalah proses administrasi untuk mengesahkan rujuk secara hukum negara."
+},
+{
+"id": 176,
+"question": "Apa yang terjadi jika rujuk tidak dicatat?",
+"answer": "Status hukum keluarga dapat bermasalah dalam administrasi dan warisan."
+},
+{
+"id": 177,
+"question": "Siapa yang boleh menjadi wali nikah?",
+"answer": "Ayah kandung, kakek, saudara laki-laki seayah seibu, dan seterusnya."
+},
+{
+"id": 178,
+"question": "Apakah menikah di hari libur bisa dilakukan?",
+"answer": "Bisa melalui layanan nikah luar kantor."
+},
+{
+"id": 179,
+"question": "Apakah pasangan harus hadir saat mengurus duplikat buku nikah?",
+"answer": "Tidak wajib, salah satu saja bisa mengurusnya."
+},
+{
+"id": 180,
+"question": "Bagaimana cara mengubah jadwal akad?",
+"answer": "Hubungi KUA secepatnya untuk penjadwalan ulang."
+},
+
+{
+"id": 181,
+"question": "Apa saja yang diperiksa saat pemeriksaan berkas nikah?",
+"answer": "Identitas, status perkawinan, wali, dan legalitas dokumen."
+},
+{
+"id": 182,
+"question": "Apakah rujuk bisa dilakukan di rumah?",
+"answer": "Bisa jika penghulu bersedia dan mengikuti prosedur luar kantor."
+},
+{
+"id": 183,
+"question": "Apa perbedaan nikah kantor dan luar kantor?",
+"answer": "Nikah kantor gratis, luar kantor berbayar sesuai peraturan pemerintah."
+},
+{
+"id": 184,
+"question": "Bisakah anak di bawah 19 tahun menikah?",
+"answer": "Bisa dengan dispensasi dari Pengadilan Agama."
+},
+{
+"id": 185,
+"question": "Apakah calon pengantin boleh membawa saksi lebih dari dua?",
+"answer": "Boleh, tetapi yang dicatat hanya dua saksi utama."
+},
+{
+"id": 186,
+"question": "Apa saja syarat rujuk?",
+"answer": "Suami dan istri hadir, saksi dua orang, dan buku nikah."
+},
+{
+"id": 187,
+"question": "Apakah rujuk bisa ditolak KUA?",
+"answer": "Bisa jika tidak memenuhi syarat sah rujuk."
+},
+{
+"id": 188,
+"question": "Bagaimana jika salah satu saksi tidak hadir saat akad?",
+"answer": "KUA dapat menyediakan saksi cadangan."
+},
+{
+"id": 189,
+"question": "Apakah perlu membawa pas foto saat rujuk?",
+"answer": "Tidak wajib."
+},
+{
+"id": 190,
+"question": "Apa itu sidang isbat?",
+"answer": "Sidang di Pengadilan Agama untuk menetapkan keabsahan pernikahan yang belum tercatat."
+},
+
+{
+"id": 191,
+"question": "Apakah pernikahan harus dicatat agar sah?",
+"answer": "Sah secara agama dapat berbeda dengan sah secara negara; pencatatan diwajibkan oleh hukum negara."
+},
+{
+"id": 192,
+"question": "Apakah orang tua tiri bisa menjadi wali nikah?",
+"answer": "Tidak bisa, wali harus dari garis nasab laki-laki."
+},
+{
+"id": 193,
+"question": "Berapa biaya duplikat buku nikah?",
+"answer": "Biasanya gratis, tetapi biaya administrasi dapat berbeda per KUA."
+},
+{
+"id": 194,
+"question": "Apakah bisa akad di kantor desa?",
+"answer": "Bisa melalui layanan luar kantor."
+},
+{
+"id": 195,
+"question": "Apakah nikah bisa dilakukan di waktu malam?",
+"answer": "Bisa, selama disetujui penghulu dan memenuhi prosedur luar kantor."
+},
+{
+"id": 196,
+"question": "Siapa yang menandatangani buku nikah?",
+"answer": "Penghulu, mempelai, wali, dan saksi."
+},
+{
+"id": 197,
+"question": "Apa fungsi KUA setelah akad selesai?",
+"answer": "Mencatat pernikahan, mengarsip dokumen, dan mengeluarkan buku nikah."
+},
+{
+"id": 198,
+"question": "Apakah calon pengantin boleh datang sendiri untuk daftar?",
+"answer": "Boleh, tetapi data pasangan harus lengkap."
+},
+{
+"id": 199,
+"question": "Bisakah pasangan menikah tanpa hadir?",
+"answer": "Tidak bisa, kecuali dalam kondisi sangat khusus seperti wali by proxy yang diatur hukum."
+},
+{
+"id": 200,
+"question": "Apakah rujuk harus dilakukan di hadapan penghulu?",
+"answer": "Ya, agar rujuk tercatat secara resmi di dokumen negara."
+},
+
+  {
+    "id": 201,
+    "question": "Apa prosedur dasar pendaftaran nikah di KUA?",
+    "answer": "Prosedur dasar pendaftaran nikah meliputi pengumpulan dokumen N1–N4, fotokopi identitas, pengajuan ke KUA minimal 10 hari sebelum akad, pemeriksaan berkas, penjadwalan akad, dan penandatanganan berkas saat hari pernikahan.",
+    "tags": ["prosedur", "pendaftaran nikah"]
+  },
+  {
+    "id": 202,
+    "question": "Bagaimana prosedur rujuk setelah talak satu?",
+    "answer": "Prosedur rujuk setelah talak satu adalah melapor ke KUA dengan membawa akta cerai atau putusan pengadilan, membawa dua saksi laki-laki, dan melakukan pencatatan rujuk.",
+    "tags": ["rujuk", "prosedur"]
+  },
+  {
+    "id": 203,
+    "question": "Apa syarat mahar dalam pernikahan?",
+    "answer": "Mahar harus berupa sesuatu yang halal, diketahui nilainya, dan disepakati kedua pihak.",
+    "tags": ["mahar"]
+  },
+  {
+    "id": 204,
+    "question": "Apakah calon pengantin harus hadir saat daftar nikah?",
+    "answer": "Idealnya hadir, tetapi boleh diwakilkan dengan surat kuasa resmi kepada keluarga.",
+    "tags": ["pendaftaran nikah"]
+  },
+  {
+    "id": 205,
+    "question": "Apakah ijab kabul boleh dilakukan secara daring?",
+    "answer": "Ijab kabul harus dilakukan secara langsung dan bertatap muka sesuai aturan KUA.",
+    "tags": ["akad nikah"]
+  },
+  {
+    "id": 206,
+    "question": "Bagaimana prosedur numpang nikah antar provinsi?",
+    "answer": "Prosedurnya adalah pengantin meminta surat rekomendasi nikah dari KUA domisili, lalu menyerahkannya ke KUA tempat akad akan dilaksanakan.",
+    "tags": ["numpang nikah", "prosedur"]
+  },
+  {
+    "id": 207,
+    "question": "Apa itu wali nasab?",
+    "answer": "Wali nasab adalah wali pernikahan yang memiliki hubungan kekerabatan langsung dengan calon pengantin perempuan sesuai urutan.",
+    "tags": ["wali nikah"]
+  },
+  {
+    "id": 208,
+    "question": "Apa fungsi buku nikah?",
+    "answer": "Buku nikah merupakan dokumen resmi yang membuktikan pernikahan pasangan secara hukum negara.",
+    "tags": ["dokumen nikah"]
+  },
+  {
+    "id": 209,
+    "question": "Apakah rujuk harus dilakukan di depan penghulu?",
+    "answer": "Ya, pencatatan rujuk membutuhkan kehadiran petugas KUA dan saksi.",
+    "tags": ["rujuk"]
+  },
+  {
+    "id": 210,
+    "question": "Apakah boleh akad nikah tanpa wali hadir secara fisik?",
+    "answer": "Boleh melalui wakalah, yaitu wali memberikan kuasa kepada orang lain untuk mengakadkan.",
+    "tags": ["wali nikah", "wakalah"]
+  },
+  {
+    "id": 211,
+    "question": "Apa prosedur pengajuan dispensasi usia menikah?",
+    "answer": "Pengajuan dilakukan ke Pengadilan Agama dengan alasan kuat, membawa dokumen orang tua dan calon pengantin, serta surat pengantar dari kelurahan.",
+    "tags": ["prosedur", "dispensasi usia"]
+  },
+  {
+    "id": 212,
+    "question": "Apakah surat ganti nama diperlukan saat nikah?",
+    "answer": "Ya, jika pernah mengganti nama, dokumen perubahan nama harus dilampirkan.",
+    "tags": ["dokumen nikah"]
+  },
+  {
+    "id": 213,
+    "question": "Apakah penghulu dapat menjadi saksi?",
+    "answer": "Tidak. Penghulu hanya bertugas mencatat dan memimpin acara akad.",
+    "tags": ["saksi nikah"]
+  },
+  {
+    "id": 214,
+    "question": "Berapa batas minimal usia menikah menurut aturan?",
+    "answer": "Usia minimal menikah adalah 19 tahun untuk laki-laki maupun perempuan.",
+    "tags": ["aturan nikah"]
+  },
+  {
+    "id": 215,
+    "question": "Apakah calon pengantin harus membawa surat sehat?",
+    "answer": "Beberapa daerah mewajibkan surat sehat atau vaksin TT sebagai syarat tambahan.",
+    "tags": ["kesehatan nikah"]
+  },
+  {
+    "id": 216,
+    "question": "Apa itu surat rekomendasi nikah?",
+    "answer": "Dokumen dari KUA domisili calon pengantin yang mengizinkan melangsungkan akad di KUA lain.",
+    "tags": ["numpang nikah"]
+  },
+  {
+    "id": 217,
+    "question": "Apa prosedur jika wali nikah tidak diketahui keberadaannya?",
+    "answer": "KUA akan melakukan pemeriksaan dan dapat mengalihkan kewenangan kepada wali hakim.",
+    "tags": ["wali hakim", "prosedur"]
+  },
+  {
+    "id": 218,
+    "question": "Apa itu nafkah dalam pernikahan?",
+    "answer": "Nafkah adalah kewajiban suami untuk mencukupi kebutuhan pokok istri secara layak.",
+    "tags": ["pernikahan"]
+  },
+  {
+    "id": 219,
+    "question": "Apa saja persyaratan menikah di luar negeri?",
+    "answer": "Diperlukan surat keterangan dari kedutaan, dokumen identitas, dan mengikuti aturan negara tujuan.",
+    "tags": ["nikah WNA"]
+  },
+  {
+    "id": 220,
+    "question": "Apa fungsi N1 dalam persyaratan nikah?",
+    "answer": "N1 adalah surat keterangan untuk nikah yang dikeluarkan oleh kelurahan atau desa.",
+    "tags": ["formulir nikah"]
+  },
+  {
+    "id": 221,
+    "question": "Apa fungsi N2?",
+    "answer": "N2 adalah surat keterangan asal-usul calon pengantin.",
+    "tags": ["formulir nikah"]
+  },
+  {
+    "id": 222,
+    "question": "Apa fungsi N3?",
+    "answer": "N3 adalah surat persetujuan kedua calon pengantin.",
+    "tags": ["formulir nikah"]
+  },
+  {
+    "id": 223,
+    "question": "Apa fungsi N4?",
+    "answer": "N4 adalah surat keterangan tentang orang tua.",
+    "tags": ["formulir nikah"]
+  },
+  {
+    "id": 224,
+    "question": "Apa prosedur memperoleh wali hakim?",
+    "answer": "Pengantin harus membawa bukti tidak adanya wali nasab, atau ketidakhadiran wali, lalu KUA akan menentukan wali hakim melalui pemeriksaan.",
+    "tags": ["prosedur", "wali hakim"]
+  },
+  {
+    "id": 225,
+    "question": "Apakah baju pengantin memengaruhi proses akad?",
+    "answer": "Tidak, selama pakaian sopan dan sesuai aturan masjid atau tempat akad.",
+    "tags": ["akad nikah"]
+  },
+  {
+    "id": 226,
+    "question": "Apa saja isi buku nikah?",
+    "answer": "Memuat data suami, istri, tanggal akad, tanda tangan penghulu, dan nomor akta nikah.",
+    "tags": ["buku nikah"]
+  },
+  {
+    "id": 227,
+    "question": "Apa itu ta'aruf?",
+    "answer": "Ta'aruf adalah proses perkenalan yang dilakukan sesuai syariah sebelum pernikahan.",
+    "tags": ["pra nikah"]
+  },
+  {
+    "id": 228,
+    "question": "Apakah wajib melakukan bimbingan perkawinan?",
+    "answer": "Sebagian KUA mewajibkan, tergantung aturan daerah.",
+    "tags": ["pembekalan nikah"]
+  },
+  {
+    "id": 229,
+    "question": "Bagaimana prosedur penggantian buku nikah yang hilang?",
+    "answer": "Melapor ke KUA tempat menikah dengan membawa KTP, KK, dan surat kehilangan dari kepolisian.",
+    "tags": ["prosedur", "buku nikah"]
+  },
+  {
+    "id": 230,
+    "question": "Apakah surat izin orang tua wajib?",
+    "answer": "Wajib jika calon pengantin berusia di bawah 21 tahun.",
+    "tags": ["izin orang tua"]
+  },
+  {
+    "id": 231,
+    "question": "Bagaimana prosedur menikah di rumah sakit?",
+    "answer": "Prosedurnya adalah mengajukan layanan luar kantor, melampirkan surat keterangan dokter, dan menyesuaikan jadwal penghulu.",
+    "tags": ["prosedur", "lokasi akad"]
+  },
+  {
+    "id": 232,
+    "question": "Apa itu wali adhal?",
+    "answer": "Wali adhal adalah wali yang menghalangi pernikahan tanpa alasan syar'i.",
+    "tags": ["wali nikah"]
+  },
+  {
+    "id": 233,
+    "question": "Apakah boleh meminta mahar emas?",
+    "answer": "Boleh, selama disepakati kedua pihak.",
+    "tags": ["mahar"]
+  },
+  {
+    "id": 234,
+    "question": "Apakah akad nikah harus ada khutbah nikah?",
+    "answer": "Khutbah nikah dianjurkan tetapi tidak wajib.",
+    "tags": ["akad nikah"]
+  },
+  {
+    "id": 235,
+    "question": "Apa itu taklik talak?",
+    "answer": "Taklik talak adalah pernyataan suami setelah akad nikah tentang kondisi yang menyebabkan talak jatuh.",
+    "tags": ["perceraian"]
+  },
+  {
+    "id": 236,
+    "question": "Apakah KUA menyimpan arsip nikah?",
+    "answer": "Ya, KUA menyimpan arsip pernikahan sebagai dasar penerbitan duplikat buku nikah.",
+    "tags": ["administrasi"]
+  },
+  {
+    "id": 237,
+    "question": "Bagaimana prosedur jika wali berbeda agama?",
+    "answer": "Wali non-muslim tidak sah menjadi wali nikah, sehingga dialihkan ke wali hakim.",
+    "tags": ["prosedur", "wali hakim"]
+  },
+  {
+    "id": 238,
+    "question": "Apakah calon pengantin boleh duda atau janda?",
+    "answer": "Boleh, dengan melampirkan akta cerai atau akta kematian pasangan sebelumnya.",
+    "tags": ["syarat nikah"]
+  },
+  {
+    "id": 239,
+    "question": "Apakah bisa akad nikah tanpa keluarga?",
+    "answer": "Bisa, asalkan ada wali, dua saksi, dan penghulu.",
+    "tags": ["akad nikah"]
+  },
+  {
+    "id": 240,
+    "question": "Bagaimana prosedur isbat nikah pasangan yang menikah siri?",
+    "answer": "Pengajuan dilakukan ke Pengadilan Agama. Setelah penetapan keluar, pasangan membawa dokumen ke KUA untuk dicatatkan.",
+    "tags": ["isbat nikah", "prosedur"]
+  },
+  {
+    "id": 241,
+    "question": "Apakah menikah di KUA pasti gratis?",
+    "answer": "Gratis jika akad dilakukan di kantor KUA pada jam layanan.",
+    "tags": ["biaya nikah"]
+  },
+  {
+    "id": 242,
+    "question": "Apa yang dimaksud akad nikah?",
+    "answer": "Akad nikah adalah perjanjian pernikahan yang dilakukan melalui ijab dan kabul.",
+    "tags": ["akad nikah"]
+  },
+  {
+    "id": 243,
+    "question": "Apakah WNA harus menerjemahkan dokumen?",
+    "answer": "Ya, dokumen harus diterjemahkan oleh penerjemah tersumpah.",
+    "tags": ["nikah WNA"]
+  },
+  {
+    "id": 244,
+    "question": "Bagaimana prosedur mencatatkan nikah setelah menikah di luar negeri?",
+    "answer": "Pasangan melapor ke KUA dengan membawa dokumen pernikahan yang dilegalisasi kedutaan.",
+    "tags": ["prosedur", "nikah luar negeri"]
+  },
+  {
+    "id": 245,
+    "question": "Apa itu wali mujbir?",
+    "answer": "Wali mujbir adalah wali yang memiliki hak untuk menikahkan anak gadisnya tanpa persetujuan, tetapi praktik ini tidak diberlakukan dalam administrasi KUA.",
+    "tags": ["wali nikah"]
+  },
+  {
+    "id": 246,
+    "question": "Apakah sah menikah tanpa surat N1?",
+    "answer": "Tidak. N1 adalah syarat wajib untuk pendaftaran nikah.",
+    "tags": ["formulir nikah"]
+  },
+  {
+    "id": 247,
+    "question": "Untuk apa foto calon pengantin diperlukan?",
+    "answer": "Foto digunakan untuk buku nikah dan arsip pencatatan.",
+    "tags": ["dokumen nikah"]
+  },
+  {
+    "id": 248,
+    "question": "Bagaimana prosedur mengganti wali jika wali asli sedang di luar negeri?",
+    "answer": "Diperlukan surat kuasa resmi dari wali atau penetapan wali hakim jika wali tidak dapat dihubungi.",
+    "tags": ["wali hakim", "prosedur"]
+  },
+  {
+    "id": 249,
+    "question": "Apakah penghulu harus membawa mahar?",
+    "answer": "Tidak. Mahar harus dibawa oleh calon suami.",
+    "tags": ["mahar"]
+  },
+  {
+    "id": 250,
+    "question": "Apakah menikah di hari Jumat boleh?",
+    "answer": "Boleh, selama sesuai jadwal penghulu.",
+    "tags": ["jadwal nikah"]
+  },
+  {
+    "id": 251,
+    "question": "Apa prosedur perpindahan pendaftaran nikah?",
+    "answer": "Mengurus rekomendasi nikah dari KUA asal dan menyerahkannya ke KUA tujuan.",
+    "tags": ["prosedur", "numpang nikah"]
+  },
+  {
+    "id": 252,
+    "question": "Apakah saksi harus mengenakan baju tertentu?",
+    "answer": "Tidak ada aturan khusus, cukup rapi dan sopan.",
+    "tags": ["saksi nikah"]
+  },
+  {
+    "id": 253,
+    "question": "Apakah boleh akad satu hari setelah daftar nikah?",
+    "answer": "Boleh dengan dispensasi dari kecamatan atau kondisi darurat tertentu.",
+    "tags": ["pendaftaran nikah"]
+  },
+  {
+    "id": 254,
+    "question": "Apa itu buku registrasi nikah?",
+    "answer": "Dokumen resmi yang digunakan KUA untuk mencatat semua pernikahan yang sah.",
+    "tags": ["administrasi"]
+  },
+  {
+    "id": 255,
+    "question": "Apakah nikah beda agama bisa dicatat di KUA?",
+    "answer": "Tidak. KUA hanya mencatat pernikahan pasangan muslim.",
+    "tags": ["aturan nikah"]
+  },
+  {
+    "id": 256,
+    "question": "Bagaimana prosedur rujuk setelah masa iddah hampir habis?",
+    "answer": "Selama masih dalam masa iddah talak raj'i, rujuk tetap dapat dicatatkan dengan membawa saksi dan dokumen perceraian.",
+    "tags": ["rujuk", "prosedur"]
+  },
+  {
+    "id": 257,
+    "question": "Apa syarat perempuan sebagai wali nikah?",
+    "answer": "Perempuan tidak dapat menjadi wali nikah.",
+    "tags": ["wali nikah"]
+  },
+  {
+    "id": 258,
+    "question": "Apakah penghulu membawa mikrofon atau perlengkapan?",
+    "answer": "Tidak. Perlengkapan acara disiapkan oleh keluarga pengantin.",
+    "tags": ["akad nikah"]
+  },
+  {
+    "id": 259,
+    "question": "Apa saja tugas penghulu?",
+    "answer": "Memeriksa dokumen, membimbing prosesi akad, dan mencatat pernikahan.",
+    "tags": ["penghulu"]
+  },
+  {
+    "id": 260,
+    "question": "Bagaimana prosedur pernikahan dalam kondisi darurat?",
+    "answer": "Pengantin dapat meminta layanan darurat dengan bukti keadaan mendesak dan melampirkan dokumen minimal.",
+    "tags": ["prosedur", "darurat nikah"]
+  },
+  {
+    "id": 261,
+    "question": "Apakah boleh membawa lebih dari dua saksi?",
+    "answer": "Boleh, namun hanya dua saksi utama yang ditulis resmi.",
+    "tags": ["saksi nikah"]
+  },
+  {
+    "id": 262,
+    "question": "Apa itu wali nasab urutan kedua?",
+    "answer": "Wali nasab urutan kedua adalah kakek dari pihak ayah jika ayah telah meninggal.",
+    "tags": ["wali nikah"]
+  },
+  {
+    "id": 263,
+    "question": "Apa prosedur pembatalan pendaftaran nikah?",
+    "answer": "Calon pengantin dapat melapor ke KUA untuk membatalkan jadwal dan pencatatan.",
+    "tags": ["prosedur"]
+  },
+  {
+    "id": 264,
+    "question": "Apakah menikah tanpa mahar sah?",
+    "answer": "Tidak sah. Mahar wajib diberikan.",
+    "tags": ["mahar"]
+  },
+  {
+    "id": 265,
+    "question": "Bagaimana prosedur penjadwalan ulang akad nikah?",
+    "answer": "Pengantin harus melapor ke KUA, membawa bukti pendaftaran, dan menyesuaikan jadwal penghulu.",
+    "tags": ["prosedur"]
+  },
+  {
+    "id": 266,
+    "question": "Apakah surat pengantar RT/RW diperlukan?",
+    "answer": "Tergantung kebijakan desa atau kelurahan masing-masing.",
+    "tags": ["dokumen nikah"]
+  },
+  {
+    "id": 267,
+    "question": "Apa itu wali hakim pengganti?",
+    "answer": "Wali hakim pengganti adalah pejabat yang menggantikan wali hakim jika berhalangan.",
+    "tags": ["wali hakim"]
+  },
+  {
+    "id": 268,
+    "question": "Apakah KUA membuka layanan konsultasi?",
+    "answer": "Ya, beberapa KUA menyediakan konsultasi pranikah dan hukum keluarga.",
+    "tags": ["konsultasi nikah"]
+  },
+  {
+    "id": 269,
+    "question": "Apakah wajib membawa map untuk dokumen?",
+    "answer": "Tidak wajib, namun dianjurkan agar dokumen tertata.",
+    "tags": ["dokumen nikah"]
+  },
+  {
+    "id": 270,
+    "question": "Apa prosedur pernikahan bagi penyandang disabilitas?",
+    "answer": "Harus membawa surat keterangan kemampuan menikah dari ahli atau dokter, serta tetap mengikuti syarat administrasi.",
+    "tags": ["prosedur", "nikah disabilitas"]
+  },
+  {
+    "id": 271,
+    "question": "Apakah imam masjid boleh menikahkan?",
+    "answer": "Boleh sebagai wakil wali atau wakil suami, namun pencatatan tetap oleh penghulu.",
+    "tags": ["wakalah", "akad nikah"]
+  },
+  {
+    "id": 272,
+    "question": "Apakah boleh memakai bahasa daerah dalam ijab kabul?",
+    "answer": "Boleh selama maknanya jelas.",
+    "tags": ["akad nikah"]
+  },
+  {
+    "id": 273,
+    "question": "Apakah bukti domisili harus terbaru?",
+    "answer": "Ya, sebaiknya terbaru agar sesuai dengan data kependudukan.",
+    "tags": ["dokumen nikah"]
+  },
+  {
+    "id": 274,
+    "question": "Bagaimana prosedur jika orang tua calon pengantin berbeda alamat?",
+    "answer": "Dokumen mengikuti alamat calon pengantin, bukan alamat orang tua.",
+    "tags": ["prosedur"]
+  },
+  {
+    "id": 275,
+    "question": "Apakah KUA menerima pembayaran non-tunai?",
+    "answer": "Sebagian daerah menyediakan opsi pembayaran non-tunai untuk layanan luar kantor.",
+    "tags": ["biaya nikah"]
+  },
+  {
+    "id": 276,
+    "question": "Apa itu wali ghairu nasab?",
+    "answer": "Wali ghairu nasab adalah wali yang tidak memiliki hubungan kekerabatan, seperti wali hakim.",
+    "tags": ["wali nikah"]
+  },
+  {
+    "id": 277,
+    "question": "Apakah kartu vaksin diperlukan untuk nikah?",
+    "answer": "Tidak wajib secara nasional, namun beberapa daerah bisa meminta.",
+    "tags": ["kesehatan nikah"]
+  },
+  {
+    "id": 278,
+    "question": "Bagaimana prosedur verifikasi data calon pengantin?",
+    "answer": "Penghulu memeriksa kecocokan data pada KTP, KK, surat N1–N4, dan dokumen pendukung lainnya.",
+    "tags": ["prosedur"]
+  },
+  {
+    "id": 279,
+    "question": "Apakah rujuk bisa tanpa membawa putusan cerai?",
+    "answer": "Tidak. Dokumen cerai diperlukan sebagai bukti status talak.",
+    "tags": ["rujuk"]
+  },
+  {
+    "id": 280,
+    "question": "Apa itu masa khitbah?",
+    "answer": "Masa khitbah adalah masa lamaran sebelum akad nikah.",
+    "tags": ["pra nikah"]
+  },
+  {
+    "id": 281,
+    "question": "Apakah perbedaan nikah resmi dan nikah siri?",
+    "answer": "Nikah resmi dicatatkan di KUA dan diakui negara; nikah siri hanya sah secara agama tanpa pencatatan.",
+    "tags": ["isbat nikah"]
+  },
+  {
+    "id": 282,
+    "question": "Apa itu Kartu Nikah Digital?",
+    "answer": "Kartu Nikah Digital adalah kartu elektronik yang dapat diunduh sebagai bukti pernikahan resmi.",
+    "tags": ["dokumen nikah"]
+  },
+  {
+    "id": 283,
+    "question": "Bagaimana prosedur mendapatkan Kartu Nikah Digital?",
+    "answer": "Setelah menikah, pasangan dapat mengunduh kartu digital melalui aplikasi resmi Kemenag.",
+    "tags": ["prosedur", "kartu nikah digital"]
+  },
+  {
+    "id": 284,
+    "question": "Apa saja alasan KUA menolak pendaftaran nikah?",
+    "answer": "Dokumen tidak lengkap, tidak memenuhi syarat usia, atau ada halangan hukum.",
+    "tags": ["pendaftaran nikah"]
+  },
+  {
+    "id": 285,
+    "question": "Apakah boleh menikah tanpa KK?",
+    "answer": "Tidak. KK adalah dokumen wajib.",
+    "tags": ["dokumen nikah"]
+  },
+  {
+    "id": 286,
+    "question": "Bagaimana prosedur mencatatkan rujuk setelah rujuk dilakukan secara lisan?",
+    "answer": "Pasangan harus melapor ke KUA, membawa saksi, dan melakukan pencatatan resmi.",
+    "tags": ["rujuk", "prosedur"]
+  },
+  {
+    "id": 287,
+    "question": "Apakah boleh membawa saksi perempuan?",
+    "answer": "Tidak. Saksi harus laki-laki.",
+    "tags": ["saksi nikah"]
+  },
+  {
+    "id": 288,
+    "question": "Apakah calon pengantin wajib membawa materai?",
+    "answer": "Sebagian KUA meminta materai untuk keperluan tanda tangan dokumen.",
+    "tags": ["dokumen nikah"]
+  },
+  {
+    "id": 289,
+    "question": "Apakah prosedur nikah berbeda untuk duda?",
+    "answer": "Untuk duda diperlukan akta cerai atau akta kematian istri sebelumnya.",
+    "tags": ["prosedur", "nikah duda"]
+  },
+  {
+    "id": 290,
+    "question": "Apa syarat rujuk talak raj’i?",
+    "answer": "Harus masih dalam masa iddah, suami mengucapkan rujuk, dan dicatatkan di KUA.",
+    "tags": ["rujuk"]
+  },
+  {
+    "id": 291,
+    "question": "Apakah akad nikah bisa dibatalkan?",
+    "answer": "Akad nikah tidak bisa dibatalkan setelah sah. Pembatalan hanya dapat melalui pengadilan.",
+    "tags": ["akad nikah"]
+  },
+  {
+    "id": 292,
+    "question": "Bagaimana prosedur menikah dengan pasangan beda provinsi?",
+    "answer": "Meminta surat rekomendasi nikah dari KUA domisili dan menyerahkannya ke KUA tempat akad.",
+    "tags": ["prosedur", "numpang nikah"]
+  },
+  {
+    "id": 293,
+    "question": "Apa itu wali pengganti?",
+    "answer": "Wali pengganti adalah orang yang diberi kuasa oleh wali asli untuk mewakili pernikahan.",
+    "tags": ["wali nikah"]
+  },
+  {
+    "id": 294,
+    "question": "Apakah penghulu boleh menolak menjalankan akad?",
+    "answer": "Boleh, jika ditemukan dokumen palsu atau calon pengantin tidak memenuhi syarat.",
+    "tags": ["penghulu"]
+  },
+  {
+    "id": 295,
+    "question": "Bagaimana prosedur membuat surat persetujuan mempelai?",
+    "answer": "Mengisi formulir N3 yang ditandatangani kedua calon pengantin.",
+    "tags": ["prosedur", "formulir nikah"]
+  },
+  {
+    "id": 296,
+    "question": "Apakah rujuk perlu wali?",
+    "answer": "Tidak. Rujuk cukup dilakukan oleh suami kepada istri dengan saksi dan pencatatan.",
+    "tags": ["rujuk"]
+  },
+  {
+    "id": 297,
+    "question": "Apakah akad nikah boleh dilakukan di malam hari?",
+    "answer": "Boleh, namun termasuk layanan luar kantor.",
+    "tags": ["jadwal nikah"]
+  },
+  {
+    "id": 298,
+    "question": "Bagaimana prosedur pindah agama sebelum menikah di KUA?",
+    "answer": "Calon pengantin harus membuat pernyataan masuk Islam di hadapan pembimbing agama dan membawa bukti tersebut saat daftar nikah.",
+    "tags": ["prosedur", "syarat nikah"]
+  },
+  {
+    "id": 299,
+    "question": "Apa itu wali jauh?",
+    "answer": "Wali jauh adalah wali yang berada di lokasi berbeda sehingga sulit hadir.",
+    "tags": ["wali nikah"]
+  },
+  {
+    "id": 300,
+    "question": "Bagaimana prosedur jika pengantin perempuan tidak memiliki dokumen lengkap?",
+    "answer": "KUA akan meminta melengkapi dokumen seperti identitas, surat keterangan domisili, atau dokumen pengganti sesuai aturan.",
+    "tags": ["prosedur", "pendaftaran nikah"]
+  },
+
+{
+  "id": 301,
+"question": "Bagaimana prosedur rujuk setelah terjadi cerai talak satu?",
+"answer": "Prosedur rujuk setelah cerai talak satu adalah suami menyatakan rujuk kepada istri di hadapan dua saksi yang sah, kemudian pasangan melaporkan rujuk ke KUA untuk dicatatkan.",
+"tags": ["rujuk", "perceraian", "prosedur rujuk"]
+},
+{
+"id": 302,
+"question": "Apakah rujuk wajib dilakukan di hadapan penghulu?",
+"answer": "Tidak wajib dilakukan di hadapan penghulu, tetapi rujuk harus dicatatkan di KUA. Penghulu biasanya membantu proses pencatatan bila diminta.",
+"tags": ["rujuk", "pencatatan rujuk"]
+},
+{
+"id": 303,
+"question": "Bagaimana prosedur rujuk jika perceraian diputuskan oleh pengadilan agama?",
+"answer": "Jika perceraian diputuskan oleh pengadilan agama, pasangan harus membawa salinan putusan cerai dan melaporkan rujuk ke KUA domisili untuk dicatatkan secara resmi.",
+"tags": ["rujuk", "perceraian", "putusan pengadilan", "prosedur"]
+},
+{
+"id": 304,
+"question": "Apa yang terjadi apabila pasangan rujuk tanpa melapor ke KUA?",
+"answer": "Rujuk tetap sah secara agama jika memenuhi syarat, tetapi tidak sah secara administrasi negara karena tidak tercatat di KUA.",
+"tags": ["rujuk", "administrasi"]
+},
+{
+"id": 305,
+"question": "Apakah ada batas waktu untuk mendaftarkan rujuk setelah perceraian?",
+"answer": "Rujuk hanya dapat dilakukan selama masa iddah. Setelah masa iddah berakhir, pasangan tidak bisa rujuk dan harus menikah ulang jika ingin kembali bersama.",
+"tags": ["rujuk", "iddah", "prosedur rujuk"]
+},
+
+{
+"id": 306,
+"question": "Apa saja syarat sah rujuk menurut aturan KUA?",
+"answer": "Syarat sah rujuk adalah perceraian talak satu atau dua, masa iddah belum berakhir, suami menyatakan rujuk secara jelas, dan ada dua saksi laki-laki yang adil.",
+"tags": ["rujuk", "syarat"]
+},
+{
+"id": 307,
+"question": "Apa prosedur mencatatkan rujuk di KUA?",
+"answer": "Pasangan membawa buku nikah, salinan putusan cerai jika ada, identitas diri, dan saksi. KUA kemudian mengisi formulir rujuk dan memberikan pencatatan resmi.",
+"tags": ["prosedur", "rujuk"]
+},
+{
+"id": 308,
+"question": "Apakah rujuk dapat dilakukan setelah talak tiga?",
+"answer": "Tidak dapat. Jika talak tiga, pasangan tidak bisa rujuk dan hanya dapat menikah kembali setelah perempuan menikah dengan laki-laki lain secara sah dan bercerai alami.",
+"tags": ["perceraian", "rujuk"]
+},
+{
+"id": 309,
+"question": "Dokumen apa yang dibutuhkan untuk mendaftarkan rujuk?",
+"answer": "Dokumen yang dibutuhkan meliputi buku nikah, salinan putusan cerai (jika perceraian melalui pengadilan), KTP pasangan, dan identitas saksi.",
+"tags": ["rujuk", "dokumen"]
+},
+{
+"id": 310,
+"question": "Siapa saja yang harus hadir dalam pencatatan rujuk di KUA?",
+"answer": "Suami dan istri wajib hadir bersama dua saksi laki-laki saat proses pencatatan rujuk di KUA.",
+"tags": ["rujuk", "prosedur"]
+},
+
+{
+"id": 311,
+"question": "Apakah pasangan wajib membawa saksi untuk rujuk?",
+"answer": "Ya. Dua saksi laki-laki yang adil wajib hadir agar rujuk sah secara agama.",
+"tags": ["rujuk", "saksi"]
+},
+{
+"id": 312,
+"question": "Bisakah istri menolak rujuk dari suami?",
+"answer": "Istri tidak dapat menolak jika masih masa iddah, karena hak rujuk ada pada suami. Namun jika masa iddah telah selesai, istri berhak menolak untuk menikah ulang.",
+"tags": ["rujuk", "iddah"]
+},
+{
+"id": 313,
+"question": "Bagaimana prosedur rujuk setelah cerai gugat?",
+"answer": "Jika cerai melalui gugat (putusan istri), maka tidak ada rujuk. Pasangan hanya dapat menikah ulang dengan akad baru.",
+"tags": ["perceraian", "rujuk"]
+},
+{
+"id": 314,
+"question": "Bagaimana cara mengetahui masa iddah telah berakhir?",
+"answer": "Masa iddah dihitung berdasarkan jenis perceraian dan kondisi istri, umumnya tiga kali haid atau tiga bulan bagi perempuan yang tidak haid.",
+"tags": ["iddah", "rujuk"]
+},
+{
+"id": 315,
+"question": "Apakah rujuk bisa dilakukan tanpa kehadiran istri?",
+"answer": "Secara agama, rujuk bisa diucapkan tanpa kehadiran istri, tetapi untuk pencatatan administrasi di KUA, istri harus hadir.",
+"tags": ["rujuk", "prosedur"]
+},
+
+{
+"id": 316,
+"question": "Bagaimana prosedur rujuk bagi pasangan yang kehilangan buku nikah?",
+"answer": "Pasangan harus mengurus duplikat buku nikah di KUA tempat menikah sebelum rujuk dapat dicatatkan.",
+"tags": ["rujuk", "buku nikah"]
+},
+{
+"id": 317,
+"question": "Apakah suami boleh menarik talak sebelum masa iddah selesai?",
+"answer": "Ya, selama talak satu atau dua, suami berhak melakukan rujuk selama masa iddah belum habis.",
+"tags": ["perceraian", "rujuk"]
+},
+{
+"id": 318,
+"question": "Bagaimana prosedur rujuk jika pasangan tinggal di luar kota?",
+"answer": "Pasangan dapat mencatatkan rujuk di KUA domisili terbaru dengan membawa dokumen identitas dan buku nikah.",
+"tags": ["rujuk", "prosedur"]
+},
+{
+"id": 319,
+"question": "Apakah perceraian tanpa putusan pengadilan bisa dirujuk?",
+"answer": "Tidak bisa. Perceraian sah negara hanya melalui putusan pengadilan agama. Jika tidak ada putusan, statusnya masih suami-istri.",
+"tags": ["perceraian", "rujuk"]
+},
+{
+"id": 320,
+"question": "Apakah rujuk bisa dilakukan melalui video call?",
+"answer": "Tidak disarankan. Pengucapan rujuk harus dilakukan jelas dan disaksikan langsung oleh saksi.",
+"tags": ["rujuk", "prosedur"]
+},
+
+{
+"id": 321,
+"question": "Apakah rujuk bisa ditolak oleh KUA?",
+"answer": "KUA dapat menolak pencatatan rujuk jika dokumen tidak lengkap atau masa iddah telah berakhir.",
+"tags": ["rujuk", "administrasi"]
+},
+{
+"id": 322,
+"question": "Apa prosedur rujuk bagi pasangan yang menikah di luar negeri?",
+"answer": "Pasangan harus menunjukkan dokumen pernikahan luar negeri yang telah dilegalisasi dan dicatatkan di KUA sebelum rujuk dapat diproses.",
+"tags": ["rujuk", "dokumen"]
+},
+{
+"id": 323,
+"question": "Apakah rujuk dikenakan biaya di KUA?",
+"answer": "Pencatatan rujuk di kantor KUA pada jam kerja umumnya tidak dikenakan biaya.",
+"tags": ["rujuk", "biaya"]
+},
+{
+"id": 324,
+"question": "Bagaimana prosedur rujuk apabila salah satu saksi tidak memenuhi syarat?",
+"answer": "KUA akan meminta pasangan membawa saksi baru yang memenuhi syarat, yaitu dua laki-laki muslim yang adil.",
+"tags": ["rujuk", "saksi"]
+},
+{
+"id": 325,
+"question": "Apakah pasangan perlu surat pengantar untuk rujuk?",
+"answer": "Tidak memerlukan surat pengantar. Cukup membawa dokumen pernikahan, putusan cerai jika ada, dan saksi.",
+"tags": ["rujuk", "prosedur"]
+},
+
+{
+"id": 326,
+"question": "Apakah rujuk harus ditulis dalam formulir resmi?",
+"answer": "Ya. KUA akan mengisi formulir pencatatan rujuk sebagai bukti administratif.",
+"tags": ["rujuk", "administrasi"]
+},
+{
+"id": 327,
+"question": "Apakah suami boleh rujuk tanpa pemberitahuan kepada istri?",
+"answer": "Secara agama mungkin, tetapi secara administrasi negara rujuk harus dilaporkan bersama-sama ke KUA.",
+"tags": ["rujuk", "administrasi"]
+},
+{
+"id": 328,
+"question": "Apa prosedur jika istri sedang hamil ketika ditalak?",
+"answer": "Masa iddah istri yang hamil berlangsung sampai melahirkan, dan rujuk dapat dilakukan kapan saja selama masa tersebut.",
+"tags": ["iddah", "rujuk"]
+},
+{
+"id": 329,
+"question": "Apakah perceraian karena khuluk dapat dirujuk?",
+"answer": "Tidak bisa. Khuluk bersifat tebus talak dan tidak dapat dirujuk. Pasangan hanya dapat menikah kembali dengan akad baru.",
+"tags": ["perceraian", "rujuk"]
+},
+{
+"id": 330,
+"question": "Apakah KUA bisa menolak rujuk setelah masa iddah lewat?",
+"answer": "Ya. Rujuk tidak sah jika masa iddah telah berakhir. Pasangan harus menikah ulang jika ingin kembali bersama.",
+"tags": ["iddah", "rujuk"]
+},
+
+{
+"id": 331,
+"question": "Apakah rujuk harus disertai mahar baru?",
+"answer": "Tidak perlu mahar baru. Mahar hanya berlaku pada akad nikah ulang, bukan pada rujuk.",
+"tags": ["rujuk"]
+},
+{
+"id": 332,
+"question": "Apakah rujuk dapat dilakukan jika suami menghilang lama?",
+"answer": "Tidak dapat. Jika suami tidak hadir, proses rujuk tidak bisa dilakukan.",
+"tags": ["rujuk", "prosedur"]
+},
+{
+"id": 333,
+"question": "Siapa yang berwenang mencatatkan rujuk?",
+"answer": "Pencatatan rujuk dilakukan oleh petugas pencatat nikah di KUA domisili pasangan.",
+"tags": ["rujuk", "administrasi"]
+},
+{
+"id": 334,
+"question": "Apakah perceraian tanpa saksi sah untuk dirujuk?",
+"answer": "Perceraian sah negara hanya melalui pengadilan. Jika tidak ada putusan pengadilan, pasangan tidak dianggap bercerai.",
+"tags": ["perceraian", "rujuk"]
+},
+{
+"id": 335,
+"question": "Bagaimana prosedur rujuk bila istri pindah domisili?",
+"answer": "Rujuk dapat dicatatkan di KUA domisili terbaru dengan membawa dokumen pendukung dari KUA tempat nikah.",
+"tags": ["rujuk", "prosedur"]
+},
+
+{
+"id": 336,
+"question": "Apakah rujuk harus diumumkan ke keluarga?",
+"answer": "Tidak wajib. Yang penting rujuk sah secara agama dan tercatat di KUA.",
+"tags": ["rujuk"]
+},
+{
+"id": 337,
+"question": "Apakah rujuk dapat dilakukan jika talak dijatuhkan melalui pesan digital?",
+"answer": "Jika talak dijatuhkan tanpa prosedur pengadilan, talak tidak sah secara negara. Status pasangan tetap menikah.",
+"tags": ["perceraian", "rujuk"]
+},
+{
+"id": 338,
+"question": "Bagaimana prosedur rujuk jika buku nikah hanya dimiliki salah satu pihak?",
+"answer": "Pasangan harus membawa kedua buku nikah. Jika salah satu hilang, harus dibuatkan duplikat terlebih dahulu.",
+"tags": ["rujuk", "dokumen"]
+},
+{
+"id": 339,
+"question": "Apakah rujuk sah jika hanya dilakukan secara lisan tanpa pencatatan?",
+"answer": "Sah secara agama, tetapi tidak diakui negara sampai dicatatkan di KUA.",
+"tags": ["rujuk"]
+},
+{
+"id": 340,
+"question": "Apakah rujuk dapat dilakukan jika putusan cerai belum inkrah?",
+"answer": "Tidak dapat. Rujuk hanya relevan jika perceraian sudah dinyatakan resmi dan masa iddah sedang berlangsung.",
+"tags": ["rujuk", "perceraian"]
+},
+
+{
+"id": 341,
+"question": "Apakah anak harus ikut dalam pencatatan rujuk?",
+"answer": "Tidak perlu. Rujuk hanya melibatkan suami, istri, dan saksi.",
+"tags": ["rujuk"]
+},
+{
+"id": 342,
+"question": "Apa saja alasan KUA menolak pencatatan rujuk?",
+"answer": "Dokumen tidak lengkap, masa iddah berakhir, atau perceraian tidak disahkan pengadilan.",
+"tags": ["rujuk", "administrasi"]
+},
+{
+"id": 343,
+"question": "Bagaimana prosedur rujuk jika istri sedang berada di luar negeri?",
+"answer": "Rujuk tetap harus dilakukan bersama di hadapan saksi dan dicatatkan di KUA, sehingga istri perlu hadir secara langsung.",
+"tags": ["rujuk"]
+},
+{
+"id": 344,
+"question": "Apakah suami boleh mencabut rujuk setelah diucapkan?",
+"answer": "Tidak. Setelah rujuk sah dilakukan, pasangan kembali berstatus suami-istri.",
+"tags": ["rujuk"]
+},
+{
+"id": 345,
+"question": "Bagaimana prosedur rujuk untuk perceraian karena fasakh?",
+"answer": "Fasakh tidak dapat dirujuk. Jika ingin bersama kembali, pasangan harus menjalani akad nikah baru.",
+"tags": ["perceraian", "rujuk"]
+},
+
+{
+"id": 346,
+"question": "Apakah rujuk dapat dicatatkan tanpa putusan cerai?",
+"answer": "Tidak bisa. KUA hanya mencatat rujuk untuk perceraian yang disahkan pengadilan agama.",
+"tags": ["rujuk", "perceraian"]
+},
+{
+"id": 347,
+"question": "Bagaimana prosedur rujuk setelah masa iddah hampir habis?",
+"answer": "Pasangan harus segera datang ke KUA sebelum masa iddah berakhir untuk memastikan pencatatan dapat dilakukan.",
+"tags": ["iddah", "rujuk"]
+},
+{
+"id": 348,
+"question": "Apakah saksi rujuk harus dari keluarga?",
+"answer": "Tidak harus. Yang penting saksi memenuhi syarat: laki-laki muslim, baligh, dan adil.",
+"tags": ["rujuk", "saksi"]
+},
+{
+"id": 349,
+"question": "Apakah KUA memerlukan surat keterangan tambahan untuk rujuk?",
+"answer": "Tidak ada surat tambahan khusus. Dokumen utama adalah buku nikah dan putusan cerai jika ada.",
+"tags": ["rujuk", "dokumen"]
+},
+{
+"id": 350,
+"question": "Apakah pasangan bisa menikah ulang jika rujuk ditolak?",
+"answer": "Bisa. Jika rujuk tidak sah karena masa iddah berakhir, pasangan dapat melakukan akad nikah baru.",
+"tags": ["rujuk", "perceraian"]
+},
+
+{
+"id": 351,
+"question": "Bagaimana prosedur rujuk jika perceraian sebelumnya diputuskan oleh Pengadilan Agama?",
+"answer": "Jika perceraian diputuskan oleh Pengadilan Agama, rujuk hanya dapat dilakukan selama masa iddah dan harus memenuhi putusan cerai talak yang tercantum dalam akta. Pasangan wajib datang ke KUA dengan membawa salinan akta cerai dari Pengadilan Agama, lalu mengisi formulir pencatatan rujuk. Setelah diverifikasi, penghulu mencatat rujuk dalam register resmi."
+},
+{
+"id": 352,
+"question": "Apakah pasangan yang bercerai lewat Pengadilan Agama bisa langsung rujuk tanpa proses di KUA?",
+"answer": "Tidak bisa. Rujuk tetap wajib dicatatkan di KUA meskipun perceraian diputuskan oleh Pengadilan Agama. Tujuannya untuk memastikan status perkawinan tercatat kembali secara hukum negara."
+},
+{
+"id": 353,
+"question": "Dokumen apa yang dibutuhkan untuk rujuk setelah perceraian dari Pengadilan Agama?",
+"answer": "Dokumen yang dibutuhkan meliputi: KTP suami dan istri, KK, buku nikah lama (jika masih ada), salinan putusan cerai atau akta cerai dari Pengadilan Agama, serta formulir permohonan pencatatan rujuk dari KUA."
+},
+{
+"id": 354,
+"question": "Apakah penghulu wajib hadir dalam proses rujuk setelah perceraian dari Pengadilan Agama?",
+"answer": "Ya. Penghulu atau petugas KUA harus hadir untuk mencatat rujuk secara resmi karena rujuk merupakan peristiwa penting yang mengubah status hukum pasangan."
+},
+{
+"id": 355,
+"question": "Apa langkah pertama prosedur rujuk setelah perceraian putusan Pengadilan Agama?",
+"answer": "Langkah pertama adalah pasangan datang ke KUA tempat dulu menikah, membawa dokumen cerai dari pengadilan, dan menyampaikan niat rujuk secara resmi."
+},
+{
+"id": 356,
+"question": "Apakah ada masa iddah yang menjadi syarat rujuk setelah perceraian dari Pengadilan Agama?",
+"answer": "Ya. Rujuk hanya sah dilakukan selama masa iddah istri. Jika masa iddah telah habis, pasangan harus menikah ulang dengan akad baru."
+},
+{
+"id": 357,
+"question": "Apakah KUA menolak pencatatan rujuk jika masa iddah sudah habis?",
+"answer": "Ya, KUA akan menolak pencatatan rujuk karena masa iddah yang telah habis membuat rujuk tidak sah. Pasangan harus melakukan akad nikah baru."
+},
+{
+"id": 358,
+"question": "Bagaimana verifikasi rujuk di KUA setelah perceraian dari Pengadilan Agama?",
+"answer": "KUA memverifikasi identitas pasangan, memeriksa akta cerai, memastikan rujuk masih dalam masa iddah, lalu mencatat peristiwa rujuk dalam register negara."
+},
+{
+"id": 359,
+"question": "Siapa yang harus hadir dalam proses pencatatan rujuk di KUA?",
+"answer": "Yang wajib hadir adalah suami, istri, dan petugas KUA. Saksi dapat diminta jika diperlukan, tergantung kebijakan KUA."
+},
+{
+"id": 360,
+"question": "Apakah pencatatan rujuk setelah putusan Pengadilan Agama menghasilkan dokumen baru?",
+"answer": "Ya. KUA akan menerbitkan catatan rujuk pada buku nikah serta menyimpannya dalam register resmi peristiwa penting."
+},
+
+{
+"id": 361,
+"question": "Dokumen apa saja yang wajib dibawa saat mendaftarkan pernikahan di KUA?",
+"answer": "Dokumen wajib untuk pendaftaran nikah di KUA meliputi: KTP calon pengantin, Kartu Keluarga, Akta Kelahiran, pas foto, surat pengantar N1–N4 dari kelurahan, surat rekomendasi nikah jika menikah di luar domisili, dan data wali nikah. Buku nikah belum dibawa, karena buku nikah diberikan setelah akad."
+},
+{
+"id": 362,
+"question": "Apakah buku nikah termasuk dokumen yang dibawa saat daftar nikah?",
+"answer": "Tidak. Buku nikah tidak dibawa saat daftar nikah. Buku nikah adalah dokumen yang diterbitkan oleh KUA setelah proses akad nikah selesai."
+},
+{
+"id": 363,
+"question": "Apa persyaratan administrasi untuk mendaftar nikah di KUA?",
+"answer": "Persyaratan administrasi meliputi KTP, KK, Akta Kelahiran, formulir N1–N4, surat rekomendasi nikah jika berbeda domisili, serta pas foto calon pengantin."
+},
+{
+"id": 364,
+"question": "Dokumen mana yang paling penting untuk pendaftaran nikah?",
+"answer": "Dokumen paling penting adalah formulir N1–N4, KTP, dan KK karena digunakan untuk verifikasi identitas dan status calon pengantin."
+},
+{
+"id": 365,
+"question": "Apa saja formulir dari kelurahan yang diperlukan untuk daftar nikah?",
+"answer": "Formulir yang diperlukan adalah N1 (Surat Keterangan Nikah), N2 (Surat Keterangan Asal-Usul), N3 (Surat Persetujuan Mempelai), dan N4 (Surat Keterangan Tentang Orang Tua)."
+},
+{
+"id": 366,
+"question": "Mengapa KUA meminta Akta Kelahiran saat pendaftaran nikah?",
+"answer": "Akta Kelahiran digunakan untuk verifikasi umur, identitas, dan kesesuaian data keluarga calon pengantin."
+},
+{
+"id": 367,
+"question": "Apakah KTP elektronik wajib untuk daftar nikah?",
+"answer": "Ya, KTP elektronik atau surat keterangan perekaman KTP el wajib karena menjadi dasar verifikasi identitas."
+},
+{
+"id": 368,
+"question": "Apakah pasangan yang menikah di luar domisili wajib membawa surat rekomendasi nikah?",
+"answer": "Ya. Jika menikah di luar domisili, wajib membawa Surat Rekomendasi Nikah dari KUA tempat domisili masing-masing calon pengantin."
+},
+{
+"id": 369,
+"question": "Dokumen apa yang dibutuhkan calon pengantin yang sudah pernah menikah?",
+"answer": "Mereka harus membawa dokumen perceraian (akta cerai) atau akta kematian pasangan sebelumnya untuk verifikasi status."
+},
+{
+"id": 370,
+"question": "Apakah surat sehat atau pemeriksaan kesehatan termasuk syarat daftar nikah?",
+"answer": "Di beberapa daerah, KUA meminta surat kesehatan atau bukti vaksin TT, namun kebijakan ini bisa berbeda tergantung wilayah."
+},
+{
+"id": 371,
+"question": "Apakah foto calon pengantin wajib diserahkan ke KUA?",
+"answer": "Ya, pas foto diperlukan untuk dokumen administrasi dan pencetakan buku nikah."
+},
+{
+"id": 372,
+"question": "Apakah wali harus membawa dokumen tertentu?",
+"answer": "Wali biasanya cukup membawa KTP untuk verifikasi identitas. Jika wali tidak hadir, harus ada surat wali hakim dari Pengadilan Agama."
+},
+{
+"id": 373,
+"question": "Mengapa N3 atau surat persetujuan kedua mempelai penting untuk pendaftaran?",
+"answer": "N3 menegaskan bahwa pernikahan dilakukan atas dasar persetujuan kedua mempelai tanpa paksaan."
+},
+{
+"id": 374,
+"question": "Apakah saksi harus membawa KTP saat akad nikah?",
+"answer": "Ya, saksi harus membawa KTP untuk dicatat dalam buku nikah setelah akad."
+},
+{
+"id": 375,
+"question": "Apa dokumen yang harus dibawa jika calon pengantin perempuan pindah domisili?",
+"answer": "Ia harus membawa surat rekomendasi nikah dari KUA domisili lama serta dokumen kependudukan yang relevan."
+},
+
+{
+"id": 376,
+"question": "Bagaimana alur pemeriksaan berkas calon pengantin sebelum akad nikah dilaksanakan?",
+"answer": "Alur pemeriksaan berkas dimulai ketika calon pengantin menyerahkan seluruh dokumen ke KUA. Petugas akan memeriksa kelengkapan formulir N1–N4, kecocokan data KTP, KK, akta kelahiran, status perkawinan, serta identitas wali dan saksi. Jika lengkap dan valid, petugas menjadwalkan pemeriksaan nikah (pemeriksaan calon). Jika ada kekurangan, calon diminta melengkapinya sebelum akad."
+},
+{
+"id": 377,
+"question": "Apa saja yang diperiksa KUA pada berkas calon pengantin?",
+"answer": "KUA akan memeriksa data identitas (KTP, KK, akta kelahiran), formulir N1–N4, status perkawinan, dokumen wali, pas foto, serta surat rekomendasi nikah jika menikah di luar domisili."
+},
+{
+"id": 378,
+"question": "Mengapa KUA melakukan pemeriksaan berkas sebelum akad nikah?",
+"answer": "Pemeriksaan berkas dilakukan untuk memastikan status masing‐masing calon sah untuk menikah, tidak ada data ganda, dan tidak ada halangan nikah seperti belum cerai atau belum cukup umur."
+},
+{
+"id": 379,
+"question": "Apa yang terjadi jika berkas calon pengantin tidak lengkap saat diperiksa?",
+"answer": "Jika berkas tidak lengkap, KUA tidak dapat menjadwalkan pemeriksaan calon. Petugas akan meminta calon melengkapi dokumen yang kurang seperti formulir N1–N4, akta kelahiran, atau surat rekomendasi nikah."
+},
+{
+"id": 380,
+"question": "Apakah pemeriksaan berkas dilakukan bersamaan dengan pemeriksaan calon?",
+"answer": "Biasanya dilakukan terpisah. Pemeriksaan berkas dilakukan lebih awal untuk memastikan kelengkapan, sedangkan pemeriksaan calon dilakukan menjelang akad untuk memastikan kehadiran wali, saksi, dan persetujuan mempelai."
+},
+{
+"id": 381,
+"question": "Apa fungsi pemeriksaan calon setelah berkasnya dinyatakan lengkap?",
+"answer": "Pemeriksaan calon bertujuan memastikan kedua mempelai hadir, menyatakan persetujuan menikah tanpa paksaan, memverifikasi identitas wali, serta menyiapkan data untuk buku nikah."
+},
+{
+"id": 382,
+"question": "Apakah jadwal akad nikah bisa ditentukan sebelum pemeriksaan berkas selesai?",
+"answer": "Tidak. Jadwal akad hanya dapat ditentukan setelah seluruh berkas diverifikasi lengkap dan tidak ada kesalahan data."
+},
+{
+"id": 383,
+"question": "Siapa yang memeriksa berkas calon pengantin di KUA?",
+"answer": "Berkas diperiksa oleh petugas KUA bagian pelayanan nikah. Jika diperlukan, penghulu juga dapat ikut memeriksa kecocokan dokumen."
+},
+{
+"id": 384,
+"question": "Apa yang dilakukan KUA jika menemukan kesalahan data dalam berkas calon pengantin?",
+"answer": "KUA akan meminta calon melakukan perbaikan pada dokumen tersebut, misalnya memperbaiki data kelahiran, identitas wali, atau alamat sebelum proses pendaftaran dapat dilanjutkan."
+},
+{
+"id": 385,
+"question": "Apakah pemeriksaan berkas calon pengantin wajib dilakukan oleh semua KUA?",
+"answer": "Ya. Pemeriksaan berkas adalah prosedur standar nasional untuk memastikan legalitas dan validitas pernikahan sebelum akad berlangsung."
+},
+
+  {
+    "id": 386,
+    "question": "Bagaimana cara mendaftar pernikahan di KUA?",
+    "answer": "Calon pengantin datang ke KUA setempat dengan membawa dokumen persyaratan seperti KTP, KK, akta kelahiran, formulir N1–N4, dan pas foto. Petugas KUA akan memeriksa kelengkapan dokumen dan menjadwalkan pemeriksaan calon sebelum akad nikah."
+  },
+  {
+    "id": 387,
+    "question": "Apa langkah pertama untuk mendaftar nikah di KUA?",
+    "answer": "Langkah pertama adalah menyerahkan seluruh dokumen persyaratan ke petugas KUA, kemudian mengisi formulir permohonan pendaftaran nikah."
+  },
+  {
+    "id": 388,
+    "question": "Dokumen apa saja yang harus dibawa saat mendaftar nikah di KUA?",
+    "answer": "Dokumen yang harus dibawa meliputi KTP calon pengantin, Kartu Keluarga, akta kelahiran, formulir N1–N4 dari kelurahan, pas foto, dan surat rekomendasi nikah jika menikah di luar domisili."
+  },
+  {
+    "id": 389,
+    "question": "Apakah wali harus hadir saat mendaftar nikah di KUA?",
+    "answer": "Biasanya wali tidak perlu hadir saat pendaftaran, tapi harus hadir saat pemeriksaan calon atau akad nikah. Jika wali tidak hadir, perlu surat wali hakim dari Pengadilan Agama."
+  },
+  {
+    "id": 390,
+    "question": "Apakah perlu janji temu sebelum mendaftar nikah di KUA?",
+    "answer": "Di beberapa KUA, calon pengantin harus membuat janji temu untuk pendaftaran agar petugas dapat memeriksa berkas secara teratur."
+  },
+  {
+    "id": 391,
+    "question": "Bagaimana prosedur jika calon pengantin menikah di luar domisili?",
+    "answer": "Calon pengantin harus membawa surat rekomendasi nikah dari KUA domisili masing-masing, selain dokumen standar, agar pendaftaran di KUA tempat akad dapat dilakukan."
+  },
+  {
+    "id": 392,
+    "question": "Berapa lama proses pendaftaran nikah di KUA?",
+    "answer": "Proses pendaftaran biasanya 1–3 hari kerja setelah dokumen lengkap, tergantung KUA dan jadwal pemeriksaan calon pengantin."
+  },
+  {
+    "id": 393,
+    "question": "Apakah ada biaya untuk mendaftar nikah di KUA?",
+    "answer": "Pendaftaran nikah di KUA resmi untuk WNI biasanya gratis, kecuali jika ada biaya tambahan untuk dokumen tertentu atau jasa administrasi khusus."
+  },
+  {
+    "id": 394,
+    "question": "Bagaimana alur pemeriksaan calon pengantin sebelum akad?",
+    "answer": "Setelah dokumen diverifikasi, petugas KUA memanggil calon pengantin untuk pemeriksaan identitas, persetujuan menikah, dan status wali serta saksi sebelum menetapkan jadwal akad."
+  },
+  {
+    "id": 395,
+    "question": "Apa yang terjadi jika dokumen pendaftaran tidak lengkap?",
+    "answer": "Jika dokumen tidak lengkap, KUA akan menunda pendaftaran dan meminta calon pengantin melengkapi dokumen yang kurang sebelum jadwal akad bisa ditentukan."
+  },
+  {
+    "id": 396,
+    "question": "Apakah pemeriksaan calon dilakukan bersamaan dengan pendaftaran?",
+    "answer": "Biasanya pemeriksaan calon dilakukan setelah pendaftaran dokumen lengkap, sehingga KUA bisa memastikan identitas, wali, saksi, dan persetujuan mempelai."
+  },
+  {
+    "id": 397,
+    "question": "Siapa yang bisa mengajukan pendaftaran nikah di KUA?",
+    "answer": "Hanya calon pengantin atau wakil yang sah dengan dokumen lengkap yang bisa mengajukan pendaftaran di KUA."
+  },
+  {
+    "id": 398,
+    "question": "Apakah ada batas waktu tertentu untuk mendaftar nikah sebelum akad?",
+    "answer": "Calon pengantin sebaiknya mendaftar paling lambat beberapa minggu sebelum tanggal akad, agar KUA sempat memeriksa berkas dan menjadwalkan pemeriksaan calon."
+  },
+  {
+    "id": 399,
+    "question": "Bagaimana jika calon pengantin belum cukup umur?",
+    "answer": "Calon pengantin yang belum cukup umur harus mendapatkan izin dari Pengadilan Agama sebelum bisa mendaftar di KUA."
+  },
+  {
+    "id": 400,
+    "question": "Apakah KUA memberikan bukti pendaftaran nikah sebelum akad?",
+    "answer": "Ya, KUA memberikan tanda terima dokumen atau formulir pendaftaran yang tercatat secara resmi sebagai bukti pendaftaran sebelum akad nikah."
+  },
+
+  {
+    "id": 401,
+    "question": "Berapa biaya pendaftaran nikah di KUA?",
+    "answer": "Pendaftaran nikah bagi WNI di KUA resmi umumnya gratis (PNBP resmi Rp0). Namun, jika ada dokumen tambahan atau layanan khusus, biaya dapat dikenakan sesuai ketentuan KUA setempat."
+  },
+  {
+    "id": 402,
+    "question": "Apakah ada biaya PNBP untuk nikah di luar kota?",
+    "answer": "Jika menikah di luar domisili, PNBP tetap gratis, tapi mungkin ada biaya administrasi dokumen seperti surat rekomendasi dari KUA domisili asal."
+  },
+  {
+    "id": 403,
+    "question": "Bagaimana cara menghitung simulasi biaya nikah di KUA?",
+    "answer": "Untuk WNI, biaya resmi adalah gratis. Jika ada tambahan, misalnya fotokopi dokumen atau jasa pengurusan, jumlahnya dijumlahkan sebagai biaya tambahan. Simulasi sederhana: total biaya = PNBP (0) + biaya dokumen tambahan."
+  },
+  {
+    "id": 404,
+    "question": "Apakah perlu membayar jika menggunakan layanan percepatan di KUA?",
+    "answer": "Beberapa KUA menyediakan layanan percepatan dokumen, yang mungkin memerlukan biaya administrasi tertentu di luar PNBP resmi."
+  },
+  {
+    "id": 405,
+    "question": "Berapa biaya fotokopi dokumen untuk pendaftaran nikah?",
+    "answer": "Biaya fotokopi dokumen biasanya tergantung di luar KUA, misalnya Rp1.000–Rp5.000 per lembar, bukan PNBP resmi."
+  },
+  {
+    "id": 406,
+    "question": "Apakah ada biaya untuk nikah siri di KUA?",
+    "answer": "Tidak ada biaya resmi PNBP untuk nikah siri yang dicatat di KUA; namun untuk pencatatan resmi, layanan tetap gratis atau sesuai ketentuan administrasi."
+  },
+  {
+    "id": 407,
+    "question": "Apakah ada biaya untuk pengurusan surat rekomendasi nikah di luar domisili?",
+    "answer": "Surat rekomendasi biasanya gratis, tapi jika KUA tempat domisili menetapkan administrasi tambahan, biaya tersebut bisa diterapkan."
+  },
+  {
+    "id": 408,
+    "question": "Bagaimana simulasi biaya nikah jika harus mengurus surat pengantar dari kelurahan?",
+    "answer": "Simulasi biaya: PNBP = 0, biaya fotokopi dokumen atau materai untuk surat pengantar kelurahan sekitar Rp5.000–Rp10.000. Total biaya = biaya dokumen tambahan."
+  },
+  {
+    "id": 409,
+    "question": "Apakah biaya PNBP berbeda jika calon pengantin WNA?",
+    "answer": "Ya, bagi WNA ada biaya administrasi khusus yang ditentukan oleh KUA dan Kemenag, selain dokumen persyaratan, sedangkan WNI tetap gratis PNBP."
+  },
+  {
+    "id": 410,
+    "question": "Berapa biaya resmi nikah di KUA bagi WNI?",
+    "answer": "Untuk WNI, biaya PNBP resmi = Rp0. Semua layanan dasar pendaftaran nikah di KUA gratis."
+  },
+  {
+    "id": 411,
+    "question": "Apakah ada biaya tambahan untuk nikah di hari libur atau luar jam kerja?",
+    "answer": "Beberapa KUA bisa mengenakan biaya administrasi tambahan jika nikah di luar jam kerja atau hari libur, tapi PNBP tetap gratis."
+  },
+  {
+    "id": 412,
+    "question": "Bagaimana menghitung total biaya nikah di KUA?",
+    "answer": "Total biaya = PNBP (0) + biaya fotokopi dokumen + biaya materai jika ada + biaya administrasi tambahan (misal layanan percepatan)."
+  },
+  {
+    "id": 413,
+    "question": "Apakah ada simulasi biaya untuk nikah di KUA?",
+    "answer": "Simulasi: PNBP resmi = 0, fotokopi dokumen = Rp10.000, materai = Rp6.000, layanan tambahan = Rp0–50.000. Total estimasi: Rp16.000–66.000, tergantung kebutuhan."
+  },
+  {
+    "id": 414,
+    "question": "Apakah KUA memberikan rincian biaya saat pendaftaran?",
+    "answer": "Biasanya petugas menjelaskan bahwa PNBP resmi = 0 dan memberi estimasi biaya tambahan jika diperlukan, seperti fotokopi dokumen atau materai."
+  },
+  {
+    "id": 415,
+    "question": "Bagaimana biaya nikah di KUA untuk pasangan pindah domisili?",
+    "answer": "PNBP tetap gratis. Biaya tambahan hanya untuk dokumen rekomendasi dari KUA domisili asal (jika ada biaya fotokopi atau materai)."
+  },
+  {
+    "id": 416,
+    "question": "Apakah ada biaya untuk mencetak buku nikah?",
+    "answer": "Tidak. Buku nikah dicetak KUA secara resmi tanpa biaya PNBP bagi WNI."
+  },
+  {
+    "id": 417,
+    "question": "Bagaimana simulasi biaya jika menggunakan jasa pengurusan dokumen?",
+    "answer": "Simulasi: PNBP = 0 + biaya jasa pengurusan dokumen (misal Rp50.000–100.000) + biaya fotokopi dan materai. Total biaya tergantung jasa yang dipilih."
+  },
+  {
+    "id": 418,
+    "question": "Apakah biaya nikah di KUA berbeda tiap daerah?",
+    "answer": "PNBP resmi sama, yaitu gratis untuk WNI. Biaya tambahan bisa berbeda, tergantung biaya administrasi atau jasa tambahan di masing-masing KUA."
+  },
+  {
+    "id": 419,
+    "question": "Bagaimana jika calon pengantin ingin menggunakan materai untuk dokumen tambahan?",
+    "answer": "Materai dibeli sendiri, biasanya Rp6.000 per lembar, tergantung kebutuhan dokumen tambahan."
+  },
+  {
+    "id": 420,
+    "question": "Apakah ada biaya untuk saksi atau wali saat nikah di KUA?",
+    "answer": "Tidak ada biaya PNBP untuk saksi atau wali. Hanya biaya dokumen tambahan atau fotokopi jika diperlukan."
+  },
+  {
+    "id": 421,
+    "question": "Bagaimana simulasi biaya nikah untuk 2 pasangan sekaligus?",
+    "answer": "PNBP = 0 x 2 = 0, biaya fotokopi dokumen dan materai dikalikan jumlah pasangan. Total biaya tetap tergantung biaya dokumen tambahan."
+  },
+  {
+    "id": 422,
+    "question": "Apakah biaya administrasi untuk pendaftaran nikah di KUA dapat diganti?",
+    "answer": "Biaya PNBP resmi tidak ada, biaya administrasi dokumen tambahan bisa saja dibebankan jika layanan khusus digunakan."
+  },
+  {
+    "id": 423,
+    "question": "Bagaimana simulasi biaya jika ada perceraian sebelumnya?",
+    "answer": "PNBP = 0, tambahan dokumen seperti akta cerai atau surat pengantar bisa menambah biaya fotokopi atau materai. Total estimasi: Rp10.000–Rp20.000."
+  },
+  {
+    "id": 424,
+    "question": "Apakah KUA memberikan simulasi biaya sebelum pendaftaran?",
+    "answer": "Ya, petugas biasanya memberikan estimasi biaya dokumen tambahan seperti fotokopi, materai, atau surat rekomendasi sebelum pendaftaran."
+  },
+  {
+    "id": 425,
+    "question": "Bagaimana biaya nikah jika menggunakan layanan daring KUA?",
+    "answer": "PNBP tetap gratis. Biaya tambahan hanya berlaku jika ada kebutuhan dokumen fisik atau jasa percepatan pengurusan."
+  },
+  {
+    "id": 426,
+    "question": "Apakah biaya nikah berlaku untuk rujuk?",
+    "answer": "Rujuk di KUA bagi WNI juga gratis PNBP. Hanya dokumen tambahan atau administrasi materai mungkin dikenakan biaya kecil."
+  },
+  {
+    "id": 427,
+    "question": "Bagaimana simulasi biaya nikah di KUA untuk WNA?",
+    "answer": "PNBP resmi WNI = 0, sedangkan WNA bisa dikenakan biaya administrasi khusus yang ditentukan oleh KUA dan Kemenag."
+  },
+  {
+    "id": 428,
+    "question": "Apakah ada biaya untuk dokumen persetujuan wali saat nikah?",
+    "answer": "Tidak ada biaya PNBP. Jika ada biaya fotokopi atau materai, itu adalah biaya dokumen tambahan, bukan PNBP."
+  },
+  {
+    "id": 429,
+    "question": "Apakah biaya PNBP termasuk tanda tangan penghulu?",
+    "answer": "Tidak. PNBP resmi = 0, semua layanan standar termasuk pencatatan penghulu gratis."
+  },
+  {
+    "id": 430,
+    "question": "Bagaimana simulasi biaya nikah di KUA untuk nikah siri yang dicatat?",
+    "answer": "PNBP = 0, biaya tambahan hanya untuk dokumen atau administrasi materai jika diperlukan."
+  },
+  {
+    "id": 431,
+    "question": "Apakah ada biaya tambahan jika nikah di KUA pada hari libur nasional?",
+    "answer": "PNBP tetap 0, biaya tambahan hanya berlaku jika KUA menerapkan layanan khusus di hari libur."
+  },
+  {
+    "id": 432,
+    "question": "Bagaimana simulasi biaya jika pasangan menikah di luar kota?",
+    "answer": "PNBP = 0, biaya dokumen tambahan termasuk surat rekomendasi dan fotokopi sekitar Rp10.000–Rp20.000."
+  },
+  {
+    "id": 433,
+    "question": "Apakah biaya nikah berbeda jika salah satu calon WNA?",
+    "answer": "Ya, WNA bisa dikenakan biaya administrasi tambahan, sedangkan WNI tetap gratis PNBP."
+  },
+  {
+    "id": 434,
+    "question": "Apakah biaya dokumen tambahan wajib dibayar di KUA?",
+    "answer": "Hanya jika dokumen perlu diverifikasi atau dicetak, misalnya fotokopi, materai, atau surat tambahan."
+  },
+  {
+    "id": 435,
+    "question": "Bagaimana simulasi biaya nikah jika menggunakan jasa pengurusan dokumen di luar KUA?",
+    "answer": "PNBP = 0, biaya jasa pengurusan bisa Rp50.000–100.000, ditambah biaya dokumen dan materai. Total biaya tergantung jasa yang digunakan."
+  },
+  {
+    "id": 436,
+    "question": "Apakah biaya nikah di KUA berbeda jika menikah dengan wali hakim?",
+    "answer": "PNBP tetap 0. Biaya tambahan hanya berlaku untuk dokumen persyaratan wali hakim, seperti akta cerai atau surat izin Pengadilan Agama."
+  },
+  {
+    "id": 437,
+    "question": "Apakah ada biaya pendaftaran nikah di KUA untuk pasangan pindah domisili?",
+    "answer": "PNBP tetap 0, biaya tambahan hanya untuk dokumen surat rekomendasi dan fotokopi jika ada."
+  },
+  {
+    "id": 438,
+    "question": "Bagaimana simulasi biaya nikah jika harus memperpanjang dokumen identitas?",
+    "answer": "PNBP = 0, biaya tambahan tergantung biaya perpanjangan dokumen di instansi terkait, bukan PNBP KUA."
+  },
+  {
+    "id": 439,
+    "question": "Apakah biaya nikah berbeda jika menggunakan layanan daring KUA?",
+    "answer": "PNBP tetap gratis, biaya tambahan hanya untuk dokumen fisik atau materai jika diperlukan."
+  },
+  {
+    "id": 440,
+    "question": "Bagaimana simulasi biaya nikah jika ada perceraian sebelumnya?",
+    "answer": "PNBP = 0, biaya tambahan dokumen perceraian atau materai ± Rp10.000–20.000."
+  },
+  {
+    "id": 441,
+    "question": "Apakah ada biaya tambahan untuk pengurusan dokumen khusus di KUA?",
+    "answer": "Biaya tambahan hanya berlaku untuk dokumen fisik, fotokopi, atau materai. PNBP resmi tetap gratis."
+  },
+  {
+    "id": 442,
+    "question": "Bagaimana simulasi biaya jika ingin mencetak buku nikah tambahan?",
+    "answer": "PNBP = 0, biaya tambahan hanya untuk cetakan buku nikah ekstra jika KUA menyediakan layanan tersebut."
+  },
+  {
+    "id": 443,
+    "question": "Apakah biaya nikah berbeda jika menikah di KUA berbeda kabupaten?",
+    "answer": "PNBP resmi tetap gratis, biaya tambahan hanya berlaku untuk dokumen atau layanan percepatan."
+  },
+  {
+    "id": 444,
+    "question": "Bagaimana simulasi biaya jika menggunakan jasa notaris untuk surat tambahan?",
+    "answer": "PNBP = 0, biaya jasa notaris ± Rp50.000–100.000, ditambah biaya dokumen dan materai jika ada."
+  },
+  {
+    "id": 445,
+    "question": "Apakah ada biaya administrasi untuk rujuk di KUA?",
+    "answer": "PNBP resmi = 0, biaya tambahan hanya untuk dokumen perceraian atau materai jika diperlukan."
+  },
+  {
+    "id": 446,
+    "question": "Bagaimana simulasi biaya jika ingin mempercepat proses nikah di KUA?",
+    "answer": "PNBP = 0, biaya tambahan untuk layanan percepatan ± Rp50.000 tergantung KUA."
+  },
+  {
+    "id": 447,
+    "question": "Apakah biaya nikah berbeda jika calon pengantin sudah bercerai?",
+    "answer": "PNBP = 0, biaya tambahan hanya untuk akta cerai atau dokumen terkait ± Rp10.000–20.000."
+  },
+  {
+    "id": 448,
+    "question": "Bagaimana simulasi biaya nikah jika menggunakan fotokopi dan materai sendiri?",
+    "answer": "PNBP = 0, total biaya = jumlah biaya fotokopi + materai sesuai kebutuhan dokumen."
+  },
+  {
+    "id": 449,
+    "question": "Apakah KUA memberikan estimasi biaya pendaftaran nikah?",
+    "answer": "Ya, petugas memberikan estimasi biaya dokumen tambahan seperti fotokopi, materai, atau surat rekomendasi sebelum pendaftaran."
+  },
+  {
+    "id": 450,
+    "question": "Bagaimana simulasi total biaya pendaftaran nikah di KUA?",
+    "answer": "Total biaya = PNBP resmi (0) + biaya fotokopi dokumen + biaya materai + biaya tambahan lainnya jika ada. Estimasi biasanya Rp10.000–100.000 tergantung dokumen dan layanan tambahan."
+  },
+
+{
+  "id": 999,
+  "category": "biaya",
+  "question": "Apakah menikah di KUA bayar?",
+  "answer": "Menikah di kantor KUA pada jam kerja adalah gratis berdasarkan peraturan pemerintah."
+}
+
+
+]

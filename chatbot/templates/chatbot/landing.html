@@ -1,0 +1,214 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>KUA Digital - Layanan Kantor Urusan Agama Modern</title>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="{% static 'chatbot/style.css' %}">
+</head>
+<body>
+
+    <nav class="navbar">
+        <div class="container nav-container">
+            <div class="logo">
+                <i class="fa-solid fa-mosque"></i>
+                <span>KUA<strong>Digital</strong></span>
+            </div>
+            <ul class="nav-menu">
+                <li><a href="#hero">Beranda</a></li>
+                <li><a href="#layanan">Layanan</a></li>
+                <li><a href="#berita">Berita</a></li>
+                <li><a href="#kontak">Kontak</a></li>
+            </ul>
+            <div class="nav-cta">
+                <a href="{% url 'chat_ui' %}" class="btn-primary">Konsultasi AI</a>
+            </div>
+            <div class="menu-toggle">
+                <i class="fa-solid fa-bars"></i>
+            </div>
+        </div>
+    </nav>
+
+    <header id="hero" class="hero-section">
+        <div class="container hero-content">
+            <div class="hero-text reveal-left">
+                <span class="badge">Selamat Datang di KUA Digital</span>
+                <h1>Urusan Pernikahan Kini Lebih <span class="highlight">Mudah & Cepat</span></h1>
+                <p>Platform layanan digital Kantor Urusan Agama. Akses informasi pendaftaran nikah, rujuk, dan konsultasi syariah kapan saja dan di mana saja.</p>
+                <div class="hero-buttons">
+                    <a href="{% url 'chat_ui' %}" class="btn-primary">Mulai Chatbot <i class="fa-solid fa-robot"></i></a>
+                    <a href="#layanan" class="btn-secondary">Lihat Layanan</a>
+                </div>
+            </div>
+            <div class="hero-image reveal-right">
+                <img src="https://img.freepik.com/free-vector/gradient-islamic-new-year-illustration_23-2149460596.jpg?w=740&t=st=1686640000~exp=1686640600~hmac=a1b2c3d4" alt="Ilustrasi KUA">
+            </div>
+        </div>
+    </header>
+
+    <section id="chatbot-promo" class="chatbot-section">
+        <div class="container">
+            <div class="chatbot-card reveal-up">
+                <div class="chatbot-info">
+                    <span class="new-label">BARU LAUNCHING</span>
+                    <h2>Asisten Virtual Cerdas KUA</h2>
+                    <p>Bingung soal syarat nikah? Atau prosedur rujuk? Tanyakan pada <strong>Chatbot AI</strong> kami. Respon instan 24/7 tanpa perlu antri di kantor.</p>
+                    <ul class="feature-list">
+                        <li><i class="fa-solid fa-check-circle"></i> Info Syarat Nikah Lengkap</li>
+                        <li><i class="fa-solid fa-check-circle"></i> Prosedur Rujuk & Bimbingan</li>
+                        <li><i class="fa-solid fa-check-circle"></i> Simulasi Biaya PNBP</li>
+                    </ul>
+                    <a href="{% url 'chat_ui' %}" class="btn-white">Coba Sekarang <i class="fa-solid fa-arrow-right"></i></a>
+                </div>
+                <div class="chatbot-visual">
+                    <i class="fa-solid fa-comments chat-icon-lg"></i>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="layanan" class="services-section">
+        <div class="container">
+            <div class="section-title reveal-up">
+                <h2>Layanan Kami</h2>
+                <p>Melayani kebutuhan administrasi dan konsultasi keluarga sakinah.</p>
+            </div>
+            <div class="services-grid">
+                <div class="service-card reveal-up" style="transition-delay: 100ms;">
+                    <div class="icon-box"><i class="fa-solid fa-ring"></i></div>
+                    <h3>Daftar Nikah</h3>
+                    <p>Pendaftaran nikah online dan verifikasi berkas.</p>
+                </div>
+                <div class="service-card reveal-up" style="transition-delay: 200ms;">
+                    <div class="icon-box"><i class="fa-solid fa-heart-crack"></i></div>
+                    <h3>Rujuk</h3>
+                    <p>Prosedur dan bimbingan untuk pasangan yang ingin rujuk.</p>
+                </div>
+                <div class="service-card reveal-up" style="transition-delay: 300ms;">
+                    <div class="icon-box"><i class="fa-solid fa-book-quran"></i></div>
+                    <h3>Bimbingan</h3>
+                    <p>Kursus calon pengantin (Suscatin) dan konseling.</p>
+                </div>
+                <div class="service-card reveal-up" style="transition-delay: 400ms;">
+                    <div class="icon-box"><i class="fa-solid fa-file-signature"></i></div>
+                    <h3>Legalisir</h3>
+                    <p>Legalisir buku nikah dan dokumen terkait lainnya.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="berita" class="news-section">
+        <div class="container">
+            <div class="section-title reveal-up">
+                <h2>Berita Terkini</h2>
+                <p>Informasi terbaru seputar regulasi dan kegiatan KUA.</p>
+            </div>
+            <div class="news-grid">
+                <article class="news-card reveal-up">
+                    <div class="news-img">
+                        <img src="https://images.unsplash.com/photo-1515934751635-c81c6bc9a2d8?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=60" alt="Berita 1">
+                    </div>
+                    <div class="news-content">
+                        <span class="date">09 Des 2025</span>
+                        <h4>Jadwal Bimbingan Perkawinan Bulan Ini</h4>
+                        <p>Simak jadwal lengkap bimbingan perkawinan untuk calon pengantin...</p>
+                        <a href="#" class="read-more">Baca Selengkapnya</a>
+                    </div>
+                </article>
+                <article class="news-card reveal-up">
+                    <div class="news-img">
+                        <img src="https://images.unsplash.com/photo-1621625902641-5a0225d3df8e?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=60" alt="Berita 2">
+                    </div>
+                    <div class="news-content">
+                        <span class="date">08 Des 2025</span>
+                        <h4>Digitalisasi Layanan KUA Meningkat</h4>
+                        <p>Peningkatan pengguna layanan digital KUA mempermudah masyarakat...</p>
+                        <a href="#" class="read-more">Baca Selengkapnya</a>
+                    </div>
+                </article>
+                <article class="news-card reveal-up">
+                    <div class="news-img">
+                        <img src="https://images.unsplash.com/photo-1542204165-65bf26472b9b?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=60" alt="Berita 3">
+                    </div>
+                    <div class="news-content">
+                        <span class="date">05 Des 2025</span>
+                        <h4>Tarif PNBP Nikah Terbaru</h4>
+                        <p>Penjelasan mengenai tarif nikah di kantor dan di luar kantor KUA...</p>
+                        <a href="#" class="read-more">Baca Selengkapnya</a>
+                    </div>
+                </article>
+            </div>
+        </div>
+    </section>
+
+    <footer>
+        <div class="container footer-content">
+            <div class="footer-brand">
+                <h3>KUA<strong>Digital</strong></h3>
+                <p>Mewujudkan layanan keagamaan yang profesional, transparan, dan mudah diakses oleh seluruh masyarakat.</p>
+            </div>
+            <div class="footer-links">
+                <h4>Tautan Cepat</h4>
+                <ul>
+                    <li><a href="#hero">Beranda</a></li>
+                    <li><a href="#layanan">Layanan</a></li>
+                    <li><a href="{% url 'chat_ui' %}">Chatbot</a></li>
+                </ul>
+            </div>
+            <div class="footer-contact">
+                <h4>Hubungi Kami</h4>
+                <p><i class="fa-solid fa-location-dot"></i> Jl. Mawar No. 123, Jakarta</p>
+                <p><i class="fa-solid fa-phone"></i> (021) 123-4567</p>
+                <p><i class="fa-solid fa-envelope"></i> layanan@kua.go.id</p>
+            </div>
+        </div>
+        <div class="footer-bottom">
+            <p>&copy; 2025 KUA Digital. All Rights Reserved.</p>
+        </div>
+    </footer>
+
+    <a href="{% url 'chat_ui' %}" class="floating-chat-btn" title="Chat dengan AI">
+        <i class="fa-solid fa-comment-dots"></i>
+    </a>
+
+    <script>
+        // 1. Sticky Navbar Effect
+        window.addEventListener('scroll', function() {
+            const navbar = document.querySelector('.navbar');
+            if (window.scrollY > 50) {
+                navbar.classList.add('scrolled');
+            } else {
+                navbar.classList.remove('scrolled');
+            }
+        });
+
+        // 2. Scroll Animation (Reveal on Scroll)
+        const observerOptions = {
+            threshold: 0.1
+        };
+
+        const observer = new IntersectionObserver((entries) => {
+            entries.forEach(entry => {
+                if (entry.isIntersecting) {
+                    entry.target.classList.add('active');
+                }
+            });
+        }, observerOptions);
+
+        const revealElements = document.querySelectorAll('.reveal-up, .reveal-left, .reveal-right');
+        revealElements.forEach(el => observer.observe(el));
+
+        // 3. Mobile Menu Toggle
+        const menuToggle = document.querySelector('.menu-toggle');
+        const navMenu = document.querySelector('.nav-menu');
+
+        menuToggle.addEventListener('click', () => {
+            navMenu.classList.toggle('active');
+        });
+    </script>
+</body>
+</html>

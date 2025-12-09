@@ -1,0 +1,14 @@
+Django>=4.2
+djangorestframework
+python-dotenv
+sentence-transformers
+faiss-cpu
+PyPDF2
+pdfminer.six
+transformers
+torch  # jika menggunakan model HF lokal (CPU ok, tapi GPU lebih baik)
+requests
+gunicorn
+uvicorn
+psycopg2-binary  # jika gunakan Postgres
+openai
