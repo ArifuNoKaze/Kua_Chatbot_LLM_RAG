@@ -34,6 +34,30 @@ KEYWORDS = [
     "wali", "nikah", "pendaftaran"
 ]
 
+GREETINGS = [
+    "halo", "hai", "hello", "hi",
+    "assalamualaikum", "assalamu'alaikum",
+    "selamat pagi", "selamat siang",
+    "selamat sore", "selamat malam"
+]
+
+def is_greeting(text):
+    t = text.lower().strip()
+    for g in GREETINGS:
+        if g in t:
+            return True
+    return False
+
+def greeting_response():
+    responses = [
+        "Assalamualaikum. Selamat datang di layanan informasi KUA. Ada yang bisa kami bantu?",
+        "Halo, selamat datang di layanan resmi KUA. Silakan ajukan pertanyaan Anda.",
+        "Selamat datang di layanan informasi KUA. Ada informasi yang ingin Anda tanyakan?",
+        "Assalamualaikum. Kami siap membantu informasi seputar layanan KUA."
+    ]
+    return np.random.choice(responses)
+
+
 
 
 def keyword_boost(chunk):
@@ -98,6 +122,10 @@ def extract_json(text):
 #         LLM ANSWER GENERATOR (phi3 aman)
 # ---------------------------------------------------------
 def ask_llm(question):
+
+    if is_greeting(question):
+        return greeting_response()
+
     context = retrieve_context(question)
 
     # Jika tidak ditemukan konteks relevan → langsung JSON
